@@ -110,7 +110,7 @@ if __name__ == '__main__':
     df['Nome']= df['Nome'].astype(str)
 
     #df['text'] = df['sample_name'] + '; ' + df['location'] + '; ' + 'Lat: ' + df['Latitude'].astype(str) + '; ' + 'Long: ' + df['Longitude'].astype(str)
-    df['text'] = df['sample_name'] + '; ' + df['Substance'] + '; ' + df['location']
+    df['text'] = df['Nome'] + '; ' + df['sample_name'] + '; ' + df['Substance'] + '; ' + df['location']
     
     db=df.set_index('Nome').T.to_dict('list')
 
