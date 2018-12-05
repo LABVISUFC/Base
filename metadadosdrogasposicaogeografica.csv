@@ -1,0 +1,1000 @@
+;Name;sample_name;Substance;tested_date;published_date;location;Latitude;Longitude;
+0;3008;Yellow Leux;TFMPP;2013-12-13;2013-12-13;San Diego, CA;32.715;-117.257
+1;3009;Blue Armani;MDA;2013-12-13;2013-12-13;Albuquerque, NM;35.113;-106.621
+2;3010;Blue Circles;MDMA;2013-12-13;2013-12-13;Melrose Park, IL;41.9;-87.856
+3;3015;Super Mario;Caffeine;2013-12-24;2013-12-24;San Francisco, CA;37.774;-122.419
+4;3016;Gucci;Caffeine;2013-12-24;2013-12-24;San Francisco, CA;37.774;-122.419
+5;3017;Airplane;TFMPP;2013-12-24;2013-12-24;San Francisco, CA;37.774;-122.419
+6;3018;White Puma;Caffeine;2013-12-24;2013-12-24;San Francisco, CA;37.774;-122.419
+7;3019;Gucci;Caffeine;2013-12-24;2013-12-24;San Francisco, CA;37.774;-122.419
+8;3022;Green Rolex;Caffeine/MDMA;2013-12-24;2013-12-24;Switzerland;46.818;8.227
+9;3024;Yellow Tablet;Tadalafil;2014-01-07;2014-01-07;Montreal, Quebec, Canada;45.501;-73.567
+10;3026;White Tablet;Palmitic Acid;2014-01-07;2014-01-07;Richmond, VA;37.54;-77.436
+11;3031;Red Mitsubishi;Caffeine/Methamphetamine;2014-01-07;2014-01-07;San Francisco, CA;37.774;-122.419
+12;3032;White Lightning Bolt;MDA/Caffeine;2014-01-07;2014-01-07;San Francisco, CA;37.774;-122.419
+13;3033;Triangles;MDMA;2015-07-01;2015-07-01;Los Angeles, CA;34.052;-118.243
+14;3034;Playboy;MDMA/Caffeine;2014-01-17;2014-01-17;Zurich, Switzerland;46.818;8.227
+15;3037;Monopoly Guy;TFMPP/Lidocaine/Dibenzylpiperazine;2014-01-22;2014-01-22;San Francisco, CA;37.774;-122.419
+16;3038;Honda;TFMPP/Lidocaine/Dibenzylpiperazine/Methamphetamine;2014-01-22;2014-01-22;San Francisco, CA;37.774;-122.419
+17;3039;Pink Man;MBZP/TFMPP;2014-01-22;2014-01-22;San Francisco, CA;37.774;-122.419
+18;3041;Green PGP;TFMPP/Diphenhydramine/BZP/Methadone;2014-01-22;2014-01-22;New York, NY  ;40.712;-74.006
+19;3050;Puma;MDMA/Methamphetamine;2014-02-02;2014-02-02;San Francisco, CA;37.774;-122.419
+20;3052;Star;Caffeine;2014-02-02;2014-02-02;Ireland;53.142;7.692
+21;3055;Yellow Tablet;Meloxicam;2014-02-02;2014-02-02;Queens, NY;31.394;-73.769
+22;3060;White Tablet;Dexamethasone;2015-02-02;2015-02-02;Queens, NY;31.395;-73.77
+23;3061;PP;MDMA/Amphetamines/Caffeine;2014-02-03;2014-02-03;Zurich, Switzerland;46.818;8.227
+24;3062;Bitcoin;MDMA/Methylenedioxydimethylamphetamine;2014-01-25;2014-02-03;Zurich, Switzerland;46.818;8.227
+25;3063;Triangles;MDMA;2014-01-25;2014-02-03;Zurich, Switzerland  ;46.818;8.227
+26;3065;Green Aliens;MDMA/MDA;2014-02-10;2014-02-10;Sacramento, CA  ;38.581;-121.494
+27;3066;White Thumbs;MDMA/MDA;2014-02-10;2014-02-10;Sacramento, CA;38.581;-121.494
+28;3067;Blue Mac;MDMA/MDA;2014-02-10;2014-02-10;Sacramento, CA;38.581;-121.494
+29;3068;Blue Euros;MDMA/MDMA Methylene  homolog/Caffeine/Methamphetamine;2014-02-10;2014-02-10;Sacramento, CA;38.581;-121.494
+30;3071;Red Superman;MDMA;2014-02-17;2014-02-17;Netherlands;52.132;5.291
+31;3074;Blue Circle;MDMA/Methylsulfonylmethane;2014-02-17;2014-02-17;Chicago, IL;41.878;-87.629
+32;3075;Blue Diamonds;MDMA;2014-02-17;2014-02-17;Chicago, IL;41.878;-87.629
+33;3076;New York Yankees;Benocyclidine/Caffeine;2014-02-17;2014-02-17;Hartford, CT;41.763;-72.685
+34;3078;Mercedes;MDMA;2014-02-20;2014-02-20;Zurich, Switzerland;46.818;8.227
+35;3079;Green Android;MDMA;2014-02-20;2014-02-20;Zurich, Switzerland;46.818;8.227
+36;3081;Green Tablet;2C-B/Caffeine/MDMA;2014-02-20;2014-02-20;Zurich, Switzerland;46.818;8.227
+37;3086;Pink Mortal Kombat;MDMA;2014-02-23;2014-02-23;Glasgow, Scotland;55.864;4.251
+38;3087; Red Mortal Kombat  ;MDMA;2014-02-23;2014-02-23;Scotland;56.49;4.202
+39;2843; Mortal Kombat 2;MDMA;2013-08-13;2013-08-13;Lanarkshire, Scotland;55.673;3.782
+40;2844; Mortal Kombat 1;MDMA;2013-08-13;2013-08-13;Glasgow, Scotland;55.864;4.251
+41;3088;Red Cross Tablet;Tramadol;2014-02-23;2014-02-23;Chicago, IL;41.878;-87.629
+42;3089;Onax;Ketamine;2014-02-23;2014-02-23;Phillipines;12.879;121.774
+43;3092;Yellow Scored Tablet; Melatonin;2014-03-03;2014-03-03;Montreal, Quebec, Canada;45.501;-73.567
+44;3095;White Scored Tablet;Codeine/Acetaminophen;2014-03-03;2014-03-03;India;20.593;78.962
+45;3096;Football;MDMA/Synthesis Byproducts;2014-03-03;2014-03-03;Los Angeles, CA;34.052;-118.243
+46;3097;Blue Mushroom;MDMA;2014-03-03;2014-03-03;Zurich, Switzerland;46.818;8.227
+47;3098;Eye of the Pharaoh;2C-B;2014-03-07;2014-03-07;Zurich, Switzerland;46.818;8.227
+48;3100;White Tablet;2C-T-2;2014-03-14;2014-03-14;Trinidad, CA;10.691;-61.222
+49;3101;Green Guys Tablet;Bromazepam;2014-03-14;2014-03-14;Washington, DC;47.751;-120.74
+50;3103;Pink Hello Kitty;Methylone;2014-03-14;2014-03-14;New York, NY;40.712;-74.006
+51;3104;Yellow Pac Man;MDMA/Caffeine;2014-03-14;2014-03-14;New York, NY;40.712;-74.006
+52;3105;Blue Heart;MDMA/Caffeine;2014-03-14;2014-03-14;New York, NY;40.712;-74.006
+53;3106;Blue Playboy; 5-MeO-MIPT;2014-03-14;2014-03-14;New York, NY;40.712;-74.006
+54;3111;Modvigil;Modafinil;2014-03-23;2014-03-23;Online, India;20.593;78.962
+55;3112;Blue Monster;MDMA/Caffeine;2014-03-23;2014-03-23;San Francisco, CA;37.774;-122.419
+56;3117;Domino;MDMA;2014-04-05;2014-04-05;Detroit, MI;42.331;-83.045
+57;3118;Clomid;Clomifene;2014-04-05;2014-04-05;Vero Beach, FL;27.638;-80.397
+58;3124;Blue Ghost;MDMA;2014-04-07;2014-04-07;Ireland;53.142;7.692
+59;3134;White Skull Candy;MDMA/1-(3,4-methylenedioxyphenyl)-2-propanol;2014-04-15;2014-04-15;Los Angeles, CA;34.052;-118.243
+60;3140;White Star;5-IAI/Caffeine;2014-04-29;2014-04-29;Denver, CO;39.739;-104.99
+61;3142;Playboy Bunny;TFMPP;2014-04-29;2014-04-29;Las Vegas, NV;36.169;-115.139
+62;3143;Lime Green Transformer;MDMA/Caffeine;2014-04-29;2014-04-29;San Jose, CA;37.338;-121.886
+63;3144;Yellow Page;MBZP/mCPP/Caffeine/TFMPP;2014-04-29;2014-04-29;San Francisco, CA;37.774;-122.419
+64;3145;Fioricet MIA 110;Acetaminophen/Butalbital/Caffeine;2014-04-29;2014-04-29;Online, CA;37.774;-122.419
+65;3149;Red Monster;MDMA;2014-05-05;2014-05-05;West Hollywood, CA;34.09;-118.361
+66;3151;Blue Superman;MDMA;2014-05-05;2014-05-05;Amsterdam, Netherlands;52.37;4.895
+67;3153;Square;mCPP/MBZP/Caffeine/TFMPP;2014-05-05;2014-05-05;Sacramento, CA;38.581;-121.494
+68;3154;PS4 Play Station;MBZP/mCPP/TFMPP/Caffeine;2014-05-05;2014-05-05;Sacramento, CA;38.581;-121.494
+69;3155;PS4 Play Station;MBZP/mCPP/TFMPP/Caffeine;2014-05-05;2014-05-05;Sacramento, CA;38.581;-121.494
+70;3158;ALP Oxandralone;Oxandrolone;2014-05-13;2014-05-13;Los Angeles, CA;34.052;-118.243
+71;3161;Blue/Purple Lady;MDMA/Procaine;2014-05-13;2014-05-13;Los Angeles, CA;34.052;-118.243
+72;3165;White Tablet;Melatonin/Stearic Acid/Palmitic Acid;2014-05-13;2014-05-13;Grapevine;32.934;-97.078
+73;3166;Cross Scored Tablet;Diazepam;2014-05-13;2014-05-13;New Jersey;40.058;-74.405
+74;3172;Green Apple;MDMA/Caffeine;2014-05-26;2014-05-26;Las Vegas, NV;36.169;-115.139
+75;3174;Roxicone 4812;Oxycodone;2014-05-26;2014-05-26;New York, NY;40.712;-74.006
+76;3179;Blue Snowflake;Methamphetamine;2014-06-10;2014-06-10;Portland, OR;45.523;-122.676
+77;3183;3183  Yellow Wafer;Methaqualone/Diphenhydramine;2014-06-11;2014-06-11;New York, NY;40.712;-74.006
+78;3184;Orange LV;TFMPP/BZP/Caffeine;2014-06-11;2014-06-11;New York, NY;40.712;-74.006
+79;3185;Yellow Gun;Lorcaserin;2014-06-11;2014-06-11;Unknown, Unknown;40.712;-74.006
+80;3187;Valsartan V23/M;Stearic Acid/Palmitic Acid;2014-06-16;2014-06-16;Pittsburg, PA;40.44;-79.995
+81;3190;Mercedes;Caffeine/Methamphetamine;2014-06-16;2014-06-16;Houston, TX;29.76;-95.369
+82;3191;Altoid Double Stack;bk-MDDMA;2014-06-16;2014-06-16;Boca Raton, FL;26.368;-80.128
+83;3192;S White Dreams;Methyltestosterone;2014-06-16;2014-06-16;Clearwater, FL;27.965;-82.8
+84;3193;BIosira Anavar;Stanozolol;2014-06-16;2014-06-16;Helsinki, Finland;60.169;24.938
+85;3194;White Lightning Bolt;MDA/Caffeine;2014-06-27;2014-06-27;New York, NY;40.712;-74.006
+86;3197;White Scored Caplet;Codeine;2014-06-27;2014-06-27;Online, TX;31.968;-99.901
+87;3198;Orange Zolpidem;Zolpidem;2014-06-27;2014-06-27;Online, TX;31.968;-99.901
+88;3200;Blue Canuck;MDMA;2014-06-27;2014-06-27;San Francisco, CA;37.774;-122.419
+89;3202;Yellow Facebook;TFMPP;2014-07-10;2014-07-10;Perth, Western Australia, Australia;-25.274;133.775
+90;3204;White Tablet;Tramadol;2014-07-10;2014-07-10;Houston, TX;29.76;-95.369
+91;3206;Blue Canuck;MDMA;2014-07-10;2014-07-10;Los Angeles, CA;34.052;-118.243
+92;3210;Purple Dolphin;Procaine/MDMA/Caffeine;2014-06-25;2014-07-10;Los Angeles, CA  ;34.052;-118.243
+93;3223;Reclining Lady;TFMPP/BZP/Caffeine;2014-07-18;2014-07-18;Palos Verdes, CA;33.744;-118.387
+94;3226;Blue Dolphin;Methamphetamine/Caffeine;2014-07-24;2014-07-24;Houston, TX;29.76;-95.369
+95;3231;Red Bugatti;MDMA;2014-08-01;2014-08-01;Detroit, MI;42.331;-83.045
+96;3234;Peach Caplet;Stearic Acid/Palmitic Acid/Triethyl citrate;2014-08-01;2014-08-01;Milford, DE;41.23;-73.064
+97;3242;Blue Androids;MDMA;2014-08-04;2014-08-04;San Francisco, CA;37.774;-122.419
+98;3246;Paul Frank;TFMPP/BZP/4-FA;2014-08-17;2014-08-17;Los Angeles, CA;34.052;-118.243
+99;3247;Blue Barclay;MDMA;2014-08-17;2014-08-17;Online;29.76;-95.369
+100;3248;Blue Barclay;MDMA;2014-08-17;2014-08-17;Online;29.76;-95.369
+101;3249;Green Clover;BZP/TFMPP/MDMA;14  -08-17;2014-08-17;Fort McMurray, AB, Canada;56.726;-111.38
+102;3250;Blue Dolphin;TFMPP/BZP/MDMA;14  -08-17;2014-08-17;Fort McMurray, AB, Canada;56.726;-111.38
+103;3253;Blue Butterfly;MDMA/Caffeine;14  -08-17;2014-08-17;Orange County, CA;33.717;-117.831
+104;3255;ALP Cialis;Tadalafil;2014-08-24;2014-08-24;Miami, FL;25.761;-80.191
+105;3259;White Tablet;Palmitic Acid/Stearic Acid;2014-08-24;2014-08-24;New York, NY;40.712;-74.006
+106;3262;Pink Monster;Ketamine/Caffeine/MDMA;2014-09-09;2014-09-09;Las Vegas, NV;36.169;-115.139
+107;3263;White Tablet 477;Metoprolol;2014-09-09;2014-09-09;Satellite Beach, FL;28.176;-80.59
+108;3264;Pink Grenade;MDMA;2014-09-09;2014-09-09;Falon, Sweden;60.128;18.643
+109;3266;Green Flower;MDMA;2014-09-09;2014-09-09;Los Angeles, CA;34.052;-118.243
+110;3269;White Star;MDMA;2014-09-09;2014-09-09;Sacramento, CA;38.581;-121.494
+111;3272;AD 30 Ecstasy;Phentermine/Caffeine/Methamphetamine;2014-09-10;2014-09-10;Corpus Christi, TX;27.8;-97.396
+112;3275;MOB Tablet;TFMPP;2014-09-10;2014-09-10;Dublin, Ireland;53.349;6.26
+113;3278;Green Clamshell;TFMPP/BZP/4-FA/Benocyclidine/Caffeine;2014-09-10;2014-09-10;Dallas, TX;32.776;-96.797
+114;3282;Yellow Grenade;MDMA;2014-09-10;2014-09-10;Atlanta, GA;33.749;-84.388
+115;3283;Alprazolam;Alprazolam;2014-09-28;2014-09-28;Phillipines;12.879;121.774
+116;3288;White Dollar;MDMA;2014-09-28;2014-09-28;Leeds, England, United Kingdom;53.8;-1.549
+117;3289;ALP;Oxandrolone;2014-09-28;2014-09-28;Online;53.8;-1.549
+118;3291;WB Warner Brothers; MDMA;2014-09-28;2014-09-28;Los Angeles, CA;34.052;-118.243
+119;3292;Blue Bugatti;MDMA;2014-09-28;2014-09-28;Los Angeles, CA;34.052;-118.243
+120;3295;Red Monkey;MDMA/Caffeine;2014-09-28;2014-09-28;Phoenix, AZ;33.448;-112.074
+121;3299;Blue Warner Brothers;MDMA;2014-10-13;2014-10-13;Las Vegas, NV;36.169;-115.139
+122;3300;3300  Purple Crown;MDMA/Caffeine;2014-10-13;2014-10-13;Las Vegas, NV;36.169;-115.139
+123;3303;White Domino;MDMA;2014-10-13;2014-10-13;Los Angeles, CA;34.052;-118.243
+124;3304;Purple Battery;MDMA;2014-10-13;2014-10-13;Los Angeles, CA;34.052;-118.243
+125;3307;Blue Bugatti;MDMA;2014-10-13;2014-10-13;San Francisco, CA;37.774;-122.419
+126;3310;Xanax Bar;Alprazolam;2014-10-13;2014-10-13;Dallas, TX;32.776;-96.797
+127;3312;Blue Star;Methamphetamine/Acetaminophen/MDMA;2014-10-13;2014-10-13;Boston, MA;42.36;-71.058
+128;3316;Pink Superman;MDMA;2014-10-14;2014-10-14;Palm Springs, CA;33.83;-116.545
+129;3326;Blue Ghost;MDMA;2014-10-21;2014-10-21;Online;33.83;-116.545
+130;3327;White Dragon;Nimesulide;2014-10-21;2014-10-21;Miami, FL;25.761;-80.191
+131;3328;Ritalin CIBA AB;Methylphenidate;2014-10-21;2014-10-21;AR;35.201;-91.831
+132;3330;Lightning Bolt;MDA/Caffeine;2014-10-21;2014-10-21;Los Angeles, CA;34.052;-118.243
+133;3336;Blue Superman;MDMA/Caffeine;14  -10-28;2014-10-28;Arcadia, CA;34.139;-118.035
+134;3337;Purple Voacanga;5-MeO-DALT/Ethylphenidate/Methiopropamine;2014-10-28;2014-10-28;San Francisco, CA;37.774;-122.419
+135;3338;Green Oxycontin;Etoricoxib;2014-10-28;2014-10-28;Online;37.774;-122.419
+136;3343;Dark Star;MDPBP;2014-11-03;2014-11-03;Phoenix, AZ;33.448;-112.074
+137;3344;Roxicodone;Oxycodone;2014-11-03;2014-11-03;San Diego, CA;32.715;-117.161
+138;3349;Tan Rolex;MDA/Caffeine;2014-11-03;2014-11-03;Seattle, WA;47.606;-122.332
+139;3360;Red Smiley Face;MDA;2014-11-30;2014-11-30;New York, NY;40.712;-74.006
+140;3362;Louis Vuitton;MDA/Caffeine;2014-11-30;2014-11-30;Seattle, WA;47.606;-122.332
+141;3363;Codeine Caplet;Acetaminophen/Chlorzoxazone;2014-11-30;2014-11-30;Santa Monica, CA, India;34.019;-118.491
+142;3371;Blue Armani Exchange;MDA/Caffeine;2014-11-30;2014-11-30;New York, NY;40.712;-74.006
+143;3372;Cenforce-25;Palmitic Acid/Stearic Acid/Phthalates/Sildenafil;2014-11-30;2014-11-30;Online;40.712;-74.006
+144;3373;Nizagara;Stearic Acid/Diclofenac/Palmitic Acid/Sildenafil/Acetaminophen;2014-11-30;2014-11-30;Online, CA;37.774;-122.419
+145;3386;Pink Inc;Alprazolam;2014-12-07;2014-12-07;Fort Walton, FL;30.42;-86.617
+146;3387;Lil Green Pill;Alprazolam;2014-12-07;2014-12-07;Fort Walton, FL;30.42;-86.617
+147;3388;Big Blue Mix;Alprazolam;2014-12-07;2014-12-07;Fort Walton, FL;30.42;-86.617
+148;3389;ALP Dianabol;Methandrostenolone;2014-12-07;2014-12-07;Miami, FL;25.761;-80.191
+149;3390;ALP Anadrol;Oxymetholone;2014-12-07;2014-12-07;Miami, FL;25.761;-80.191
+150;3391;Lets Fuck;MDMA;2014-12-15;2014-12-15;Tampere, Finland;61.924;25.748
+151;3392;Green Adidas;MDMA/Caffeine;2014-12-15;2014-12-15;Indianapolis, IN;39.768;-86.158
+152;3393;Blue Tablet A;Acetaminophen;2014-12-16;2014-12-16;Santa Rosa, CA;38.44;-122.714
+153;3395;Pink Playboy Bunny;MDMA;2015-12-16;2015-12-16;Huntington Beach, FL;33.659;-117.998
+154;3398;Green Facebook;MDMA;2014-12-16;2014-12-16;New York, NY;40.712;-74.006
+155;3405;Blue Bitcoin;MDMA/Caffeine;2014-12-23;2014-12-23;San Francisco, CA;37.774;-122.419
+156;3406;Yellow Rolex;MDA;2014-12-23;2014-12-23;Seattle, WA;47.606;-122.332
+157;3408;Blue One;Methamphetamine;2014-12-23;2014-12-23;Philadelphia, PA;39.952;-75.165
+158;3411;Apple;2C-B;2014-12-24;2014-12-24;Mexico City, Mexico;19.432;-99.133
+159;3412;Molly 10;Atropine;2014-12-28;2014-12-31;Philadelphia, PA;39.952;-75.165
+160;3418;Blue Pacman Ghost;5- or 6-MAPB/5-EAPB;2015-01-08;2015-01-08;Miami, FL;25.761;-80.191
+161;3419;Norco;Acetaminophen;2015-01-08;2015-01-08;Ghaziabad, India;20.593;78.962
+162;3423;Pacman;MDA;2015-01-08;2015-01-08;New Jersey;40.058;-74.405
+163;3427;MDA Pacman;MDA;2015-01-12;2015-01-12;New York, NY;40.712;-74.006
+164;3428;MDA Pacman;MDA;2015-01-12;2015-01-12;New York, NY;40.712;-74.006
+165;3431;Unknown Tablet;Methylone/alpha-PVP;2015-01-12;2015-01-12;Wellington, New Zealand;-40.9;174.886
+166;3436;Rohypnol 615;Flunitrazepam;2015-01-12;2015-01-12;Online, Germany;51.165;10.451
+167;3437;Summer Strawberry;MDMA;2015-01-12;2015-01-12;Boston, MA;42.36;-71.058
+168;3438;Yellow Superman;MDMA;2015-01-12;2015-01-12;Minneapolis, MN;44.977;-93.265
+169;3442;Green Armani Exchange;MDA/Caffeine;2015-02-09;2015-02-09;Playa Del Camen, Quintana Roo, Mexico;20.629;-87.073
+170;3443;Purple Chanel;MDMA/Methylsulfonylmethane;2015-02-09;2015-02-09;San Francisco, CA;37.774;-122.419
+171;3444;Lightning Bolt;Caffeine/MDA;2015-02-09;2015-02-09;Altoona, PA;40.518;-78.394
+172;3445;Purple X;Acetaminophen/Oxycodone;2015-02-09;2015-02-09;San Francisco, CA;37.774;-122.419
+173;3449;Watson 853;Tramadol/Acetaminophen;2015-02-09;2015-02-09;Lemon Grove, CA;32.742;-117.031
+174;3455;Blue Ghost;MDMA;2015-02-09;2015-02-09;Los Angeles, CA;34.052;-118.243
+175;3461;Super Powerpill;MDMA;2015-02-09;2015-02-09;Online;34.052;-118.243
+176;3462;Blue Monster;MDMA;2015-02-09;2015-02-09;Honolulu, HI;21.306;-157.858
+177;3468;Xanax Tablet;None Detected;2015-02-09;2015-02-09;Online;21.306;-157.858
+178;3469;Ecstasy Tablet;Oxandrolone;2015-02-09;2015-02-09;Online, MA;42.407;-71.382
+179;3470;Lisinopril 40;Mannitol/Stearic Acid/Palmitic Acid;2015-02-10;2015-02-10;Port Orange, FL;29.138;-80.995
+180;3471;Adderall 30;Caffeine/Phentermine/Methamphetamine;2015-02-10;2015-02-10;Philadelphia, PA;39.952;-75.165
+181;3476;ETH Tablet;Fentanyl;2015-02-21;2015-02-21;San Jose, CA;37.338;-121.886
+182;3477;A 215;Oxycodone;2015-02-21;2015-02-21;Chula Vista, CA;32.64;-117.084
+183;3478;Watson 932;Methadone;2015-02-21;2015-02-21;Chula Vista, CA;32.64;-117.084
+184;3480;PInk Lady;Methamphetamine;2015-02-21;2015-02-21;Boise, ID;43.618;-116.214
+185;3489;Orange Tramadol;Tramadol;2015-02-28;2015-02-28;Online, MO;37.964;-918.318
+186;3493;Unknown Tivo;None Detected;2015-02-28;2015-02-28;Magnolia, TX;47.639;-122.399
+187;3495;Yellow Superman;Caffeine/Benocyclidine;2015-02-28;2015-02-28;Boynton Beach, FL;26.531;-80.09
+188;3496;Red Monkey;Caffeine/Benocyclidine;2015-02-28;2015-02-28;Boynton Beach, FL;26.531;-80.09
+189;3500;Adderall 30;Caffeine/Phentermine/Methamphetamine;2015-03-03;2015-03-03;Online, CA;37.774;-122.419
+190;3502;White Caplet M367;Acetaminophen/Hydrocodone;2015-03-03;2015-03-03;San Diego, CA;32.715;-117.161
+191;3503;Yellow UPS;MDMA;2015-03-10;2015-03-10;New York, NY;40.712;-74.006
+192;3504;  Green Playboy;Methamphetamine/Caffeine/Ethylone;2015-03-10;2015-03-10;Austin, TX;30.267;-97.743
+193;3508;White Triangular Tablet;Butyrfentanyl;2015-03-10;2015-03-10;Atlanta, GA;33.749;-84.388
+194;3510;Gold Bar;MDMA;2015-03-10;2015-03-10;Tempe, AZ;33.425;-111.94
+195;3511;Blue Tulips;TFMPP/Lidocaine;2015-03-10;2015-03-10;Oakland, CA;37.804;-122.271
+196;3521;Yellow UPS;MDMA;2015-03-23;2015-03-23;Online, CA;37.804;-122.271
+197;3527;Alprazolam Bar;Alprazolam;2015-03-24;2015-03-24;Online, MO;37.964;-91.831
+198;3534;ALP Anastrozole;Acetaminophen;2015-03-24;2015-03-24;Santa Clarita, CA;34.391;-118.542
+199;3537;Super P-Force;Sildenafil/Desmethylprodine;2015-03-25;2015-03-25;Online, CA;34.391;-118.542
+200;3548;Bugatti;MDMA;2015-03-25;2015-03-25;Yakima, WA;46.602;-120.505
+201;3551;Hydrocodone 3601;Hydrocodone/Acetaminophen;2015-03-30;2015-03-30;Canton, OH;23.129;-113.264
+202;3552;Bluegreen Ecstasy Tablet;2C-B;2015-03-30;2015-03-30;Arcata, CA;40.866;-124.082
+203;3558;Tesla;MDMA;2015-04-06;2015-04-06;Unknown;40.866;-124.082
+204;3565;Proviron;Mesterolone;2015-04-17;2015-04-17;New York, NY;40.712;-74.006
+205;3566;Stanzolol;Stanozolol;2015-04-17;2015-04-17;New York, NY;40.712;-74.006
+206;3567;Letrozole;Letrozole;2015-04-17;2015-04-17;New York, NY;40.712;-74.006
+207;3568;Generic Viagra;Sildenafil/Tadalafil;2015-04-18;2015-04-18;New York, NY;40.712;-74.006
+208;3569;Clomid;Clomifene;2015-04-21;2015-04-21;New York, NY;40.712;-74.006
+209;3570;Orange Bull;Methamphetamine/Caffeine/Ethylone;2015-04-21;2015-04-21;Austin, TX;30.267;-97.743
+210;3571;Armidex;Anastrozole;2015-04-21;2015-04-21;London, England, United Kingdom;51.507;-1.174
+211;3584;Green Android;MDMA;2015-04-29;2015-04-29;St. Louis, MO;38.627;-90.199
+212;3589;Orange Tesla;MDMA;2015-05-05;2015-05-05;Online, CA;34.391;-118.542
+213;3594;Blue Givenchy;MDMA/Methylone;2015-05-05;2015-05-05;San Francisco, CA;37.774;-122.419
+214;3596;Yellow American Eagle;MDMA;2015-05-05;2015-05-05;San Diego, CA;32.715;-117.161
+215;3599;ALP Tablet;Oxandrolone;2015-05-05;2015-05-05;Tampa, FL;27.95;-82.457
+216;3613;Green Eagles;Caffeine/MDA;2015-05-15;2015-05-15;Seattle, WA;47.606;-122.332
+217;3614;Red Paul Frank;MDA/Caffeine;2015-05-15;2015-05-15;Seattle, WA;47.606;-122.332
+218;3616;Green Grenade;MDMA;2015-05-15;2015-05-15;Dublin, Ireland;53.349;-6.26
+219;3617;White Lightening;Caffeine/MDA;2015-05-15;2015-05-15;Santa Rosa, CA;38.44;-122.714
+220;3620;Purple Magnet;MDMA;2015-05-20;2015-05-20;Online, CA;38.44;-122.714
+221;3621;Red UPS;MDMA;2015-05-20;2015-05-20;Online, CA;38.44;-122.714
+222;3629;Bentley;MDMA;2015-05-21;2015-05-21;Online, CA;38.44;-122.714
+223;3630;Yellow Magnet;MDMA;2015-05-21;2015-05-21;Online, CA;38.44;-122.714
+224;3631;Yellow Lamborghini;MDMA;2015-05-21;2015-05-21;Online, CA;38.44;-122.714
+225;3632;Fake Xanax;TFMPP;2015-05-21;2015-05-21;Houston, TX;29.76;-95.369
+226;3633;Yellow Acetaminophen;Palmitic Acid/Stearic Acid;2015-06-03;2015-06-04;Alexandria, MN;31.2;29.918
+227;3634;Warner Brothers WB;MDMA;2015-06-03;2015-06-04;Chicago, IL;41.878;-87.629
+228;3640;Blue Ghost;MDMA;2015-06-03;2015-06-04;Dublin, Ireland;53.349;-6.26
+229;3641;UPS;MDMA;2015-06-03;2015-06-04;Dublin, Ireland;53.349;-6.26
+230;3642;Domino;MDMA;2015-06-03;2015-06-04;Dublin, Ireland;53.349;-6.26
+231;3652;Speed Tablet;5-MeO-DALT/Methylphenidate/Methiopropamine;2015-06-16;2015-06-16;Atlanta, GA;33.749;-84.388
+232;3654;Bones Domino;MDMA;2015-06-16;2015-06-16;Boston, MA;42.36;-71.058
+233;3656;Orange Tesla;MDMA;2015-06-16;2015-06-16;Santa Clara, CA;37.354;-121.955
+234;3657;Tan Anchor;Caffeine/TFMPP;2015-06-19;2015-06-19;Fort Lauderdale, FL;26.122;-80.137
+235;3665;Xanax;Alprazolam;2015-06-19;2015-06-19;Houston, TX;29.76;-95.369
+236;3667;Red Heart Love;Caffeine/Ketamine;2015-06-19;2015-06-19;Rio de Janeiro, Brazil;-22.906;-43.172
+237;3673;Pink Spider;MDMA;2015-06-28;2015-06-28;Mobile, AL;30.695;-88.039
+238;3674;Red Spider;MDMA;2015-06-28;2015-06-28;Mobile, AL;30.695;-88.039
+239;3675;Red Rose;Mescaline;2015-06-28;2015-06-28;Roanoke, VA;37.271;-79.941
+240;3676;Tan Superman Juice;Caffeine/MDA;2015-06-28;2015-06-28;Seattle, WA;47.606;-122.332
+241;3678;Pink Dolphin;Caffeine/Methamphetamine;2015-06-28;2015-06-28;Baton Rouge, LA;30.458;-91.14
+242;3682;Orange Tesla;MDMA;2015-07-01;2015-07-01;San Diego, CA;32.715;-117.161
+243;3683;Purple Superman;Caffeine/Methamphetamine;2015-07-01;2015-07-01;Los Angeles, CA;34.052;-118.243
+244;3684;Roche Valium;Diazepam;2015-07-01;2015-07-01;Online, CT;41.603;-73.087
+245;3685;Blue Monkey;Caffeine/Benocyclidine;2015-07-01;2015-07-01;Tampa, FL;27.95;-82.457
+246;3689;Lips;MDMA;2015-07-17;2015-07-17;Online, Unknown;27.95;-82.457
+247;3699;Green Lantern;MDMA;2015-07-20;2015-07-20;Los Angeles, CA;34.052;-118.243
+248;3700;Transformer Autobot;Caffeine/Methamphetamine;2015-07-20;2015-07-20;Atlanta, GA;33.749;-84.388
+249;3706;3706  Dom Perignon Orange;MDMA;2015-07-22;2015-07-22;Monterey Park, CA;34.062;-118.122
+250;3718;Blue Pill;Etizolam;2015-07-26;2015-07-26;Virginia Beach, VA;36.852;-75.978
+251;3720;Oxandrolone Tablet;Oxandrolone;2015-07-26;2015-07-26;Tampa, FL;27.95;-82.457
+252;3723;Halotestin ;None Detected;2015-08-05;2015-08-05;San Antonio, TX;294.241;-98.493
+253;3726;Anavar;Stanozolol;2015-08-05;2015-08-05;Los Angeles, CA;34.052;-118.243
+254;3727;Purple Vitamin;None Detected;2015-08-05;2015-08-05;Salt Lake City, UT;40.76;-111.891
+255;3739;Chu Lee's Sleep Aid;Diazepam;2015-08-09;2015-08-09;Ecuador;-1.831;-78.183
+256;3744;AD 30 Tablet;DXM/Methamphetamine/Caffeine;2015-08-09;2015-08-09;Online, FL;27.664;-81.515
+257;3746;Green Lightning;Caffeine/MDA/MMDPPA;2015-08-19;2015-08-19;Toronto, ON, Canada;43.653;-79.383
+258;3749;Green Snapchat;MDMA;2015-08-19;2015-08-19;San Mateo, CA;37.563;-122.325
+259;3752;White Tablet;Methandrostenolone;2015-08-19;2015-08-19;New York, NY;40.712;-74.006
+260;3758;Sexy Lady;Caffeine/Methamphetamine;2015-08-20;2015-08-20;IA;41.878;-93.097
+261;3761;Turquoise Domino;MDMA;2015-08-20;2015-08-20;Germany;51.165;10.451
+262;3765;White Heart;Mescaline;2015-08-20;2015-08-20;Los Angeles, CA;34.052;-118.243
+263;3766;Anavar;Stanozolol;2015-08-20;2015-08-20;Phoenix, AZ;33.448;-112.074
+264;3767;Modafinil;Modafinil;2015-08-20;2015-08-20;Online, MS;32.354;-89.398
+265;3771;Green Shamrock;MDMA;2015-08-21;2015-08-21;Munich, Bayern, Germany;48.135;11.582
+266;3772;Blue Ghost;MDMA;2015-08-21;2015-08-21;Munich, Bayern, Germany;48.135;11.582
+267;3774;Yellow Grenade;25I-NBOMe;2015-08-22;2015-08-27;Hamburg, Germany;53.551;9.993
+268;3775;Blue Instagram;MDMA;2015-08-20;2015-08-27;Online, USA;32.715;-117.161
+269;3776;Yellow Snapchat;MDMA;2015-08-22;2015-08-27;Online;32.715;-117.161
+270;3777;Red Lamborghini;MDMA;2015-08-27;2015-08-27;San Diego, CA;32.715;-117.161
+271;3783;Blue Dolphin;Caffeine/5-MeO-DiPT;2015-08-27;2015-08-27;Miami, FL;25.761;-80.191
+272;3784;Blue Tesla;MDMA;2015-08-27;2015-08-27;Dublin, Ireland;53.349;-6.26
+273;3789;Blue Transformer;Caffeine/Phenacetin;2015-09-03;2015-09-03;Providence, RI;41.824;-71.412
+274;3790;Heart;Caffeine/Benocyclidine;2015-09-03;2015-09-03;Providence, RI;41.824;-71.412
+275;3791;Blue Heart;Caffeine;2015-09-03;2015-09-03;Los Angeles, CA;34.052;-118.243
+276;3792;Plain Tablet;Diazepam;2015-09-03;2015-09-03;Clifton, NJ;40.858;-74.163
+277;3800;Green Lantern;MDA/Methylsulfonylmethane/Ethylone/MDMA;2015-09-03;2015-09-03;Santa Monica, CA;38.44;-122.714
+278;3804;Psylo-Katze;MDMA;2015-08-01;2015-09-04;Zurich, Switzerland;47.376;8.541
+279;3805;No Name;MDMA;2016-08-01;2016-09-04;Zurich, Switzerland;47.376;8.541
+280;3806;No Name;MDMA;2017-08-01;2017-09-04;Zurich, Switzerland;47.376;8.541
+281;3807;Smiley;2C-B;2015-09-01;2015-09-08;Zurich, Switzerland;47.376;8.541
+282;3808;Hello Kitty;MDMA;2015-09-01;2015-09-08;Zurich, Switzerland;47.376;8.541
+283;3809;Toyota;MDMA;2015-09-01;2015-09-08;Zurich, Switzerland;47.376;8.541
+284;3810;Handgranate;MDMA;2015-09-01;2015-09-08;Zurich, Switzerland;47.376;8.541
+285;3811;Lamborghini;MDMA;2015-09-01;2015-09-08;Zurich, Switzerland;47.376;8.541
+286;3812;Diamant;MDMA;2015-09-01;2015-09-08;Zurich, Switzerland;47.376;8.541
+287;3813;Herz;MDMA;2015-09-01;2015-09-08;Zurich, Switzerland;47.376;8.541
+288;3814;Heineken;MDMA;2015-09-01;2015-09-08;Zurich, Switzerland;47.376;8.541
+289;3815;Smiley;MDMA/Amphetamines/2C-B/Caffeine;2015-09-01;2015-09-08;Zurich, Switzerland;47.376;8.541
+290;3818;Dom Perignon;MDMA;2015-09-22;2015-09-22;Zurich, Switzerland;47.376;8.541
+291;3821;Blue XTC;MDMA;2015-09-22;2015-09-22; Germany;51.165;10.451
+292;3829;SM;Fluoxymesterone;2015-09-22;2015-09-22;Chicago, IL;41.878;-87.629
+293;3832;Pinzor Chemical Pellet;Clonazolam;2015-09-22;2015-09-22;Oviedo, FL;28.67;-81.208
+294;3833;Blue Dots;None Detected;2015-09-22;2015-09-22;Liverpool, United Kingdom;53.408;-2.991
+295;3836;Green Tablet;MDMA;2015-09-25;2015-09-25;Zurich, Switzerland;47.376;8.541
+296;3837;Black Dom Perignon;MDMA;2015-09-25;2015-09-25;Zurich, Switzerland;47.376;8.541
+297;3838;Pink Dragonfly;Caffeine/MDMA;2015-09-30;2015-10-01;Seattle, WA;47.606;-122.332
+298;3842;Buprenorphine Tablet;Buprenorphine;2015-09-30;2015-10-01;Barcelona, Spain;41.385;2.173
+299;3843;T-Powder;5-EAPB/Naproxen;2015-09-30;2015-10-01;Boca Raton, FL;26.368;-80.128
+300;3844;Yellow Illuminati;Caffeine/MDMA;2015-09-30;2015-10-01; Sweden;60.128;18.643
+301;3846;Ecstasy Tablet;MDMA/Caffeine/Methylone;2015-09-30;2015-10-01;Las Vegas, NV  ;36.169;-115.139
+302;3848;New York;Caffeine/5-MeO-DiPT;2015-09-30;2015-10-01;Mays Landing, NJ;39.452;-74.727
+303;3851; E 404;Caffeine/Amphetamines;15  -09-30;2015-10-01;Dallas, TX;32.776;-96.797
+304;3853;Yellow Cucci;Ethylone/MDMA/Caffeine/Methylsulfonylmethane;15  -09-30;2015-10-01;Portland, OR;45.523;-122.676
+305;3855;Tesla;MDMA;2015-10-02;2015-10-16;Basel, Switzerland;47.559;7.588
+306;3856;Playboy;MDMA;2015-10-02;2015-10-16;Zurich, Switzerland;47.376;8.541
+307;3857;Diamant;MDMA;2015-10-02;2015-10-16;Basel, Switzerland;47.559;7.588
+308;3858;Herz Langnese;MDMA;2015-10-02;2015-10-16;Basel, Switzerland;47.559;7.588
+309;3859;Breitling;MDMA;2015-10-02;2015-10-16;Basel, Switzerland;47.559;7.588
+310;3860;YE;MDMA;2015-10-02;2015-10-16;Basel, Switzerland;47.559;7.588
+311;3861;Toyota;MDMA/MDA;2015-10-02;2015-10-16;Basel, Switzerland;47.559;7.588
+312;3863;Love Pill;MDMA/Caffeine;2015-09-20;2015-10-12;Austria;47.516;14.55
+313;3864;Purple Pumpkin;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+314;3865;Green Dome;MDMA;2015-09-20;2015-10-12;Austria;47.516;14.55
+315;3866;Heineken;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+316;3867;Hello Kitty;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+317;3868;Tomorrowland;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+318;3869;Paul Frank;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+319;3870;Würfel  ;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+320;3871;Tatze;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+321;3872;Würfel;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+322;3873;Tesla;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+323;3874;Versace;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+324;3875;Chupa Chups;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+325;3876;2k;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+326;3877;2k;MDMA;2015-10-06;2015-10-12;Austria;47.516;14.55
+327;3878;Red Circle;Caffeine/Methamphetamine;2015-10-06;2015-10-12;Austria;47.516;14.55
+328;3895;Purple Chanel;MDMA;2015-10-14;2015-10-14;San Francisco, CA;37.774;-122.419
+329;3896;3896  Blue Domino;Caffeine/Methamphetamine;2015-10-14;2015-10-14;Unknown;37.774;-122.419
+330;3899;Audi;MDMA;2015-10-16;2015-10-16;Zurich, Switzerland;47.376;8.541
+331;3900;Gold;MDMA;2015-10-16;2015-10-16;Zurich, Switzerland;47.376;8.541
+332;3901;Herz;MDMA;2015-10-16;2015-10-16;Zurich, Switzerland;47.376;8.541
+333;3902;Toyota;MDMA/MDA;2015-10-16;2015-10-16;Bern, Switzerland;46.948;7.447
+334;3907;Green Grenade;TFMPP/Caffeine/Methamphetamine/Methylsulfonylmethane/Lidocaine/Unidentified;2015-10-26;2015-10-26;Lynchburg, VA;37.413;-79.142
+335;3909;Valium;Diazepam;2015-10-26;2015-10-26;Richland, WA;46.285;-119.284
+336;3912;Warner Bros Pink;MDMA;2015-10-26;2015-10-26;Miami, FL;25.761;-80.191
+337;3914;Gleevec;None Detected;2015-10-26;2015-10-26;Atlanta, GA;33.749;-84.388
+338;3919;Green Leaf;Methamphetamine/MDMA/Caffeine;2015-10-26;2015-10-26;Denver, CO;39.739;-104.99
+339;3921;White Tablet;None Detected;2015-10-26;2015-10-26;Surprise, AZ;33.629;-112.367
+340;3922;Yellow Monster;MDMA/Caffeine;2015-10-26;2015-10-26;Portland, OR;45.523;-122.676
+341;3924;Hello Kitty;MDMA;2015-10-26;2015-10-26;Zurich, Switzerland;47.376;8.541
+342;3925;Mann / Frau;MDMA;2015-10-26;2015-10-26;Zurich, Switzerland;47.376;8.541
+343;3926;Twitter;MDMA;15  -11-02;2015-11-05;Zurich, Switzerland;47.376;8.541
+344;3927;Route 66;MDMA;15  -11-02;2015-11-05;Zurich, Switzerland;47.376;8.541
+345;3928;Audi;MDMA;15  -11-02;2015-11-05;Zurich, Switzerland;47.376;8.541
+346;3938;Ciprox 500;None Detected;15  -11-04;15  -11-05;Bronx, NY;40.844;-73.864
+347;3939;Blue Heart 69;2-ethylamino-1-phenylbutane/Acetaminophen;2015-11-04;2015-11-05;Panama City, FL;8.982;-79.519
+348;3942;Audi;MDMA;2015-11-07;2015-11-09;Zurich, Switzerland;47.376;8.541
+349;3943;Ahorn;MDMA;2015-11-07;2015-11-09;Bern, Switzerland;46.948;7.447
+350;3944;Hello Kitty;MDMA;2015-11-07;2015-11-09;Bern, Switzerland;46.948;7.447
+351;3945;Herz;MDMA;2015-11-07;2015-11-09;Bern, Switzerland;46.948;7.447
+352;3946;Philippe Plein;MDMA;2015-11-07;2015-11-09;Bern, Switzerland;46.948;7.447
+353;3947;Turtle;MDMA;2015-11-07;2015-11-09;Bern, Switzerland;46.948;7.447
+354;3948;Mitsubishi;Caffeine/MDMA;2015-11-07;2015-11-09;Bern, Switzerland;46.948;7.447
+355;3949;Whatsapp;MDMA/Caffeine;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+356;3950;Stern;MDMA/3,4-dimethylmethcathinone/Unidentified;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+357;3951;Delfin;Caffeine;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+358;3952;Warner Brothers;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+359;3953;2k;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+360;3954;Luis Vuitton;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+361;3955;Quadrat;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+362;3956;Ghost;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+363;3957;Route 66;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+364;3958;Erdbeere;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+365;3959;Würfel;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+366;3960;Dominostein;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+367;3961;Mignon;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+368;3962;2k;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+369;3963;2k;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+370;3964;Silver;MDMA;2015-11-09;2015-11-09;Vienna, Austria;48.208;16.373
+371;3967;Orange 2K;MDMA;2015-11-13;2015-11-24;Zurich, Switzerland;47.376;8.541
+372;3968;Green Transformer;MDMA;2015-11-13;2015-11-24;Zurich, Switzerland;47.376;8.541
+373;3969;Yellow Breitling;MDMA;2015-11-13;2015-11-24;Zurich, Switzerland;47.376;8.541
+374;3971;Orange Dom Perrignon;MDMA;2015-11-13;2015-11-24;Zurich, Switzerland;47.376;8.541
+375;3972;Yellow Tiger;MDMA;2015-11-13;2015-11-24;Zurich, Switzerland;47.376;8.541
+376;3973;Tesla;MDMA;2015-11-20;2015-11-24;Zurich, Switzerland;47.376;8.541
+377;3974;Apple;MDMA;2015-11-20;2015-11-24;Bern, Switzerland;46.948;7.447
+378;3975;3975  Chupa Chups;MDMA;2015-11-20;2015-11-24;Zurich, Switzerland;47.376;8.541
+379;3976;Dom Pérrignon;MDMA;2015-11-20;2015-11-24;Zurich, Switzerland;47.376;8.541
+380;3977;Grenade;MDMA;2015-11-20;2015-11-24;Zurich, Switzerland;47.376;8.541
+381;3978;Heineken;MDMA;15  -11-20;2015-11-24;Bern, Switzerland;46.948;7.447
+382;3979;Herz;MDMA;2015-11-20;2015-11-24;Zurich, Switzerland;47.376;8.541
+383;3980;  Superman  ;MDMA;2015-11-20;2015-11-24;Bern, Switzerland;46.948;7.447
+384;3981;Warner Brothers;MDMA;2015-11-20;2015-11-24;Zurich, Switzerland;47.376;8.541
+385;3982;Blue Lady;Acetaminophen/Heroin/Fentanyl;2015-11-25;2015-11-25;Providence, RI;41.824;-71.412
+386;3987;Xanax;Alprazolam;2015-11-25;2015-11-25;Seneca, SC;34.685;-82.953
+387;3989;Modalert;Modafinil;2015-11-25;2015-11-25;Seattle, WA;47.606;-122.332
+388;3996;Ritalin Tablets;Methylphenidate;2015-11-25;2015-11-25;San Francisco, CA;37.774;-122.419
+389;3997;Green Caplet;None Detected;2015-11-25;2015-11-25;Friendswood, TX;29.529;-95.201
+390;4004;Tesla;MDMA;2015-11-26;2015-11-27;Lincoln Park, NJ;41.921;-87.651
+391;4005;Xanax Bar;Alprazolam;2015-11-26;2015-11-27;Santa Barbara, CA;34.42;-119.698
+392;4011;Eule;MDMA;2015-12-04;2015-12-04;Basel, Switzerland;47.559;7.588
+393;4012;Grolsch;MDMA;2015-12-04;2015-12-04;Zurich, Switzerland;47.376;8.541
+394;4013;Warner Brothers;MDMA;2015-12-04;2015-12-04;Basel, Switzerland;47.559;7.588
+395;4014;Schildkroete;4-Chloromethamphetamine;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+396;4015;Mitsubishi;None Detected;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+397;4016;4016  Handgrenade;MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+398;4017;Kleeblatt;MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+399;4018;Route 66;MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+400;4019;2k;MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+401;4020;Warner Brothers;MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+402;4021;Android;MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+403;4022;Tulpe;MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+404;4023;Chupa Chups;MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+405;4024;Krone (Rolex);MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+406;4025;Lamborghini;MDMA;2015-12-09;2015-12-09;Vienna, Austria;48.208;16.373
+407;4028;Lamborghini;MDMA;2015-12-11;2015-12-11;Zurich, Switzerland;47.376;8.541
+408;4029;Love;MDMA;2015-12-11;2015-12-11;Bern, Switzerland;46.948;7.447
+409;4035;GG 249 White Bar;Alprazolam;2015-12-14;2015-12-14;Houston, TX;297.604;-95.369
+410;4041;Blue Facebook;MDMA;2015-12-14;2015-12-14;Santa Monica, CA;34.019;-118.491
+411;4045;Oxandrolone (Anavar);Oxandrolone;2015-12-14;2015-12-14;Phoenix, AZ;33.448;-112.074
+412;4047;Xanax GG 249;AB-FUBINACA;2015-12-14;2015-12-14;CA;36.778;-119.417
+413;4054;Tan Mercedes;Caffeine/4-CMC/Methoxetamine;2015-12-14;2015-12-14;Singapore;1.352;103.819
+414;4057;Toyota;MDMA/MDA;2015-12-21;2015-12-21;Bern, Switzerland;46.948;7.447
+415;4059;UPS;Caffeine/Lidocaine/Methamphetamine/Benzocaine/Procaine/Acetaminophen;2015-12-27;2015-12-27;San Mateo, CA;37.563;-122.325
+416;4062;Metformin;Unidentified;2015-12-27;2015-12-27;Austin, TX;30.267;-97.743
+417;4066;Blue Mercedes;MDMA/Procaine/Methamphetamine/Caffeine;2015-12-27;2015-12-27;Vancouver, BC, Canada;49.282;-123.12
+418;4083;Modalert;Modafinil;2016-01-05;2016-01-05; United Kingdom;55.378;-3.436
+419;4085;Phentermine A159;Acetaminophen/Chlorpheniramine;2016-01-05;2016-01-05;Wilmingham, NC;39.739;-75.539
+420;4112;Yellow Shield;2C-E;2016-01-30;2016-01-30;Quebec City, Quebec, Canada;46.813;-71.208
+421;4113;Orange Shield;2C-I;2016-01-30;2016-01-30;Quebec City, Quebec, Canada;46.813;-71.208
+422;4114;Patrone;MDMA;2016-01-29;2016-01-29;Zurich, Switzerland;47.376;8.541
+423;4115;Philipp Plein;MDMA;2016-01-29;2016-01-29;Zurich, Switzerland;47.376;8.541
+424;4116;Silver;MDMA;2016-01-29;2016-01-29;Zurich, Switzerland;47.376;8.541
+425;4117;Snapchat;MDMA;2016-01-29;2016-01-29;Zurich, Switzerland;47.376;8.541
+426;4118;The North Face;MDMA;2016-01-29;2016-01-29;Zurich, Switzerland;47.376;8.541
+427;4119;Master Card;MDMA;2016-01-29;2016-01-29;Bern, Switzerland;46.948;7.447
+428;4122;Ferrari Shield;MDMA/Caffeine;2016-02-01;2016-02-01;Stockholm, Sweden;59.329;18.068
+429;4123;Vicodin;Acetaminophen;2016-02-01;2016-02-01;MI;44.314;-85.602
+430;4132;Dark Tablet;5-MeO-DALT/Ethylphenidate/Methiopropamine/Ethylphenylacetate;2016-02-02;2016-02-02;Warren, OH;42.514;-83.014
+431;4134;Gold Bar;MDMA/Methylsulfonylmethane;2016-02-02;2016-02-02;Chicago, IL;41.878;-87.629
+432;4135;Mastercard;MDMA/Caffeine;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+433;4136;Gespenst/Ghost;Caffeine;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+434;4137;Gespenst/Ghost;Unidentified;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+435;4138;Dolce & Gabbana;4-CMC;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+436;4139;Ferrari;MDMA/Caffeine;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+437;4140;Dodge Viper;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+438;4141;Baer / Bear;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+439;4142;Pyramide;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+440;4143;Android;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+441;4144;Schleife;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+442;4145;Rolex;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+443;4146;Hanfblatt;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+444;4147;Gespenst/Ghost;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+445;4148;Pacman;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+446;4149;Erdbeere;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+447;4150;Instagram;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+448;4151;Warner Brothers;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+449;4152;Eule;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+450;4153;Nintendo;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+451;4154;Superman;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+452;4155;Android;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+453;4156;Stern;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+454;4157;Herz;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+455;4158;Hakenkreuz;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+456;4159;Tomorrowland;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+457;4160;Marienkäfer;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+458;4161;Schlagring/Tatze;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+459;4162;Red Bull;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+460;4163;Audi;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+461;4164;Kein Logo;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+462;4165;Jumbo;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+463;4166;Silver;MDMA;2016-01-29;2016-01-29;Vienna, Austria;48.208;16.373
+464;4167;Sildenafil;Sildenafil;2016-02-16;2016-02-16;India;20.593;78.962
+465;4169;Meditech Anavar;Oxandrolone;2016-02-16;2016-02-16;Chester, PA;53.193;-2.893
+466;4170;Meditech Dianabol;Methandrostenolone;2016-02-16;2016-02-16;Chester, PA;53.193;-2.893
+467;4171;Orange Tesla;MDMA;2016-02-16;2016-02-16;Online, Unknown;53.193;-2.893
+468;4182;Vicodin;Acetaminophen/Diclofenac;2016-02-26;2016-02-28;Atlanta, GA;33.749;-33.749
+469;4183;Apple Logo;2C-B/Caffeine/MDMA;2016-02-01;2016-03-08;Vienna, Austria;48.208;16.373
+470;4184;Note;MDMA;2016-02-01;2016-03-08;Vienna, Austria;48.208;16.373
+471;4185;Windmühle;MDMA;2016-02-01;2016-03-08;Vienna, Austria;48.208;16.373
+472;4186;Legomännchen;MDMA;2016-02-01;2016-03-08;Vienna, Austria;48.208;16.373
+473;4187;Erdbeere;MDMA;2016-02-01;2016-03-08;Vienna, Austria;48.208;16.373
+474;4188;No Name;MDMA;2016-01-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+475;4189;WhatsApp;MDMA;2016-02-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+476;4190;Spongebob;MDMA;2016-02-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+477;4191;PIN;MDMA;2016-02-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+478;4192;Maya-Kopf;MDMA;2016-02-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+479;4193;Li-ion;MDMA;2016-02-01;2016-03-08;Bern, Switzerland;46.948;7.447
+480;4194;Lego;MDMA;2016-02-01;2016-03-08;Bern, Switzerland;46.948;7.447
+481;4195;Kürbis;MDMA;2016-02-01;2016-03-08;Bern, Switzerland;46.948;7.447
+482;4196;Kein Logo;MDMA;2016-02-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+483;4197;Audi;MDMA;2016-02-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+484;4198;Warner Bros;MDMA;2016-02-01;2016-03-08;Bern, Switzerland;46.948;7.447
+485;4199;Maya-Kopf;MDMA;2016-02-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+486;4200;Spongebob;MDMA;2016-02-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+487;4201;Spongebob;MDMA;2016-02-01;2016-03-08;Zurich, Switzerland;47.376;8.541
+488;4203;Ecstasy;Phentermine;2016-03-09;2016-03-09;Cabo San Lucas, Mexico;22.89;-109.916
+489;4206;WATSON 853;Tramadol;2016-02-23;2016-03-09;San Diego, CA;32.715;-117.161
+490;4207;K 25;Palmitic Acid/Stearic Acid/Myristic Acid;2016-03-09;2016-03-09;Oak Hills, CA;34.434;-117.434
+491;4219;Pineapples/Warner;MDMA;2016-03-09;2016-03-09;Online, Unknown;34.434;-117.434
+492;4220;Blue Tablet;MDMA/Methylsulfonylmethane;2016-03-09;2016-03-09;CT;41.603;-73.087
+493;4222;Green Grenade;MDMA;2016-03-09;2016-03-09;Charlotte, NC;35.227;-80.843
+494;4226;Yellow Warner Brothers;MDMA;2016-03-09;2016-03-09;Online, FL;27.664;-81.515
+495;4227;Pink UPS;MDMA;2016-03-09;2016-03-09;Online, FL;27.664;-81.515
+496;4228;Peace;MDMA;2016-03-11;2016-03-11;Zurich, Switzerland;47.376;8.541
+497;4229;Dom Pérignon;MDMA;2016-03-11;2016-03-11;Bern, Switzerland;46.948;7.447
+498;4231;Chupa Chups;MDMA;2016-03-11;2016-03-12;Zurich, Switzerland;47.376;8.541
+499;4232;Dutch Lion;MDMA;2016-03-11;2016-03-12;Bern, Switzerland;46.948;7.447
+500;4233;Berlin;MDMA;2016-03-11;2016-03-12;Zurich, Switzerland;47.376;8.541
+501;4234;Nespresso;MDMA;2016-03-11;2016-03-12;Zurich, Switzerland;47.376;8.541
+502;4235;No Name;MDMA;2016-03-11;2016-03-12;Zurich, Switzerland;47.376;8.541
+503;4236;Om;MDMA;2016-03-11;2016-03-12;Zurich, Switzerland;47.376;8.541
+504;4237;Spongebob;MDMA;2016-03-11;2016-03-12;Zurich, Switzerland;47.376;8.541
+505;4238;Shell;MDMA/Caffeine;2016-03-11;2016-03-12;Zurich, Switzerland;47.376;8.541
+506;4239;Bentley;MDMA;2016-03-18;2016-03-18;Zurich, Switzerland;47.376;8.541
+507;4240;Cherry;MDMA;2016-03-18;2016-03-18;Zurich, Switzerland;47.376;8.541
+508;4241;Frauenbüste;MDMA;2016-03-18;2016-03-18;Zurich, Switzerland;47.376;8.541
+509;4245;Templar Cross;Clonazepam;2016-03-20;2016-03-20;Online, OH, USA;40.417;-82.907
+510;4251;Mastercard;MDMA/Caffeine;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+511;4252;Schildkröte;4-Chloromethamphetamine;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+512;4253;Nespresso;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+513;4254;Warner Brothers;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+514;4255;Schleife;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+515;4256;Heineken;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+516;4257;Tomorrow-Land;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+517;4258;Joshi;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+518;4259;Goldbarren;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+519;4260;Minions;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+520;4261;Stern;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+521;4262;Herz;MDMA;2016-03-23;2016-03-23;Vienna, Austria;48.208;16.373
+522;4272;Blue Smile;MDA/Caffeine;2016-03-25;2016-03-25;Portland, OR;45.523;-122.676
+523;4276;Green Hand Grenade;MDMA;2016-03-25;2016-03-25;Dallas, TX;32.776;-96.797
+524;4280;Lightning Bolt;MDA;2016-03-24;2016-03-25;San Francisco, CA;37.774;-122.419
+525;4281;Roche 10 Valium;Etizolam;2016-03-25;2016-03-25;Richmond, BC, Canada;37.54;-77.436
+526;4282;G3722;Etizolam/Fentanyl;2016-03-25;2016-03-25;Queens, NY;40.728;-73.794
+527;4287;Gucci;Caffeine/MDMA;2016-04-05;2016-04-05;New York, NY;40.712;-74.006
+528;4288;Poop;MDA/MDMA/Methylsulfonylmethane/Procaine/Caffeine/Methylone;2016-04-05;2016-04-05;New York, NY;40.712;-74.006
+529;4292;Snapchat;MDMA;2016-04-05;2016-04-05;Atlanta, GA;33.749;-84.388
+530;4302;Rolls Royce;MDMA/Caffeine;2016-04-08;2016-04-10;Vienna, Austria;48.208;16.373
+531;4303;Kleeblatt;MDMA;2016-04-08;2016-04-10;Vienna, Austria;48.208;16.373
+532;4304;LOVE;MDMA;2016-04-08;2016-04-10;Vienna, Austria;48.208;16.373
+533;4305;Herz;MDMA;2016-04-08;2016-04-10;Vienna, Austria;48.208;16.373
+534;4306;JUMBO;MDMA;2016-04-08;2016-04-10;Vienna, Austria;48.208;16.373
+535;4307;Bentley;MDMA;2016-04-08;2016-04-10;Vienna, Austria;48.208;16.373
+536;4308;Ghost;MDMA;2016-04-08;2016-04-10;Vienna, Austria;48.208;16.373
+537;4309;Herz;MDMA;2016-04-08;2016-04-10;Vienna, Austria;48.208;16.373
+538;4310;Milkshake;MDMA;2016-04-08;2016-04-10;Bern, Switzerland;46.948;7.447
+539;4311;MTV;MDMA;2016-04-08;2016-04-10;Zurich, Switzerland;47.376;8.541
+540;4312;Versace;MDMA;2016-04-08;2016-04-10;Zurich, Switzerland;47.376;8.541
+541;4313;Smiley;2C-B;2016-04-08;2016-04-12;Zurich, Switzerland;47.376;8.541
+542;4314;Stern;MDMA;2016-04-08;2016-04-12;Bern, Switzerland;46.948;7.447
+543;4315;Chupa Chups;MDMA;2016-04-08;2016-04-12;Bern, Switzerland;46.948;7.447
+544;4316;Herzli;MDMA;2016-04-08;2016-04-12;Bern, Switzerland;46.948;7.447
+545;4317;Lautsprecher;MDMA;2016-04-08;2016-04-12;Zurich, Switzerland;47.376;8.541
+546;4318;Monkey;MDMA;2016-04-08;2016-04-12;Bern, Switzerland;46.948;7.447
+547;4319;Pac-Man Geist;MDMA;2016-04-08;2016-04-12;Zurich, Switzerland;47.376;8.541
+548;4320;Rolls Royce;MDMA;2016-04-08;2016-04-12;Bern, Switzerland;46.948;7.447
+549;4321;Spongebob  ;MDMA;2016-04-08;2016-04-12;Zurich, Switzerland;47.376;8.541
+550;4322;Super Mario;MDMA;2016-04-08;2016-04-12;Zurich, Switzerland;47.376;8.541
+551;4326;Viagra;Sildenafil;2016-04-13;2016-04-13;Paoli, PA;40.041;-75.487
+552;4329;Tesla Model S;MDMA;2016-04-13;2016-04-13;Paoli, PA;40.041;-75.487
+553;4337;T-3;None Detected;2016-04-22;2016-04-23;Port Orange, FL;29.138;-80.995
+554;4344;STAR;Caffeine/Methamphetamine;2016-04-22;2016-04-23;New York, NY;40.712;-74.006
+555;4345;Smiley Face;MDA;2016-04-22;2016-04-23;New York, NY;40.712;-74.006
+556;4352;Batterie;MDMA;2016-04-26;2016-04-26;Zurich, Switzerland;47.376;8.541
+557;4353;Philipp Plein  ;MDMA;2016-04-26;2016-04-26;Basel, Switzerland;47.559;7.588
+558;4354;Emoji Teufel ;MDMA;2016-04-26;2016-04-26;Zurich, Switzerland;47.376;8.541
+559;4355;Kein Logo;MDMA;2016-04-26;2016-04-26;Zurich, Switzerland;47.376;8.541
+560;4356;Shell;MDMA;2016-04-26;2016-04-26;Zurich, Switzerland;47.376;8.541
+561;4357;Spongebob;MDMA;2016-04-26;2016-04-26;Basel, Switzerland;47.559;7.588
+562;4358;Versace;MDMA;2016-04-26;2016-04-26;Zurich, Switzerland;47.376;8.541
+563;4364;Gold Coin;N-Ethylpentylone;2016-04-26;2016-04-26;Denver, CO;39.739;-104.99
+564;4365;Gold Paul Frank Monkey;Caffeine/MDMA;2016-04-26;2016-04-26;Washington, DC;47.751;-120.74
+565;4371;Modafinil;Modafinil;2016-04-26;2016-04-26;Online, CA;36.778;-119.417
+566;4384;Silver;MDMA;2016-05-10;2016-05-11;Zurich, Switzerland;47.376;8.541
+567;4385;Bentley  ;MDMA;2016-05-10;2016-05-11;Zurich, Switzerland;47.376;8.541
+568;4386;Buddha;MDMA;2016-05-10;2016-05-11;Zurich, Switzerland;47.376;8.541
+569;4394;Orange Pill;2C-B/MDMA;2016-05-16;2016-05-16;Orlando, FL;28.538;-81.379
+570;4396;Xanax;Alprazolam/Acetaminophen/Methylparaben/;2016-05-16;2016-05-16;Online, IL;40.633;-40.633
+571;4398;Red M;TFMPP/Caffeine/BZP/Methamphetamine;2016-05-16;2016-05-16;New York, NY;40.712;-74.006
+572;4399;Heisenberg (Walter White);MDMA;2016-05-16;2016-05-16;New York, NY;40.712;-74.006
+573;4400;Facebook;MDMA;2016-05-16;2016-05-16;New York, NY;40.712;-74.006
+574;4404;Audi;MDMA;2016-05-18;2016-05-18;Zurich, Switzerland;47.376;8.541
+575;4405;Tatze;MDMA;2016-05-18;2016-05-18;Zurich, Switzerland;47.376;8.541
+576;4406;Harley Davidson;MDMA;2016-05-18;2016-05-18;Zurich, Switzerland;47.376;8.541
+577;4408;Pinky;MDMA;2016-05-24;2016-05-25;Munich, Bayern, Germany;48.135;11.582
+578;4414;Instagram;MDA/MDMA/Methylsulfonylmethane/Cocaine;2016-05-24;2016-05-25;Oakland, CA;37.804;-122.271
+579;4417;Purple Hotdog;MDA 2-aldoxime analog/MDA/Methylsulfonylmethane;2016-05-24;2016-05-25;San Leandro, CA;37.724;-122.156
+580;4418;Red Supreme;MDMA;2016-05-24;2016-05-25;Online;37.724;-122.156
+581;4421;Percocet;Acetaminophen/Aceclofenac;2016-05-24;2016-05-25;Online, India;20.593;78.962
+582;4424;Pink Domino;MDMA;2016-05-24;2016-05-25;Online;20.593;78.962
+583;4425;Oxycodone;Oxycodone;2016-05-24;2016-05-25;Los Angeles, CA;34.052;-118.243
+584;4430;Blue Tesla;MDMA;2016-05-24;2016-05-25;Online, Netherlands;52.132;5.291
+585;4431;MDMA/tablet;MDMA;2016-05-24;2016-05-25;Germany;51.165;10.451
+586;4433;Clonazepam;Clonazolam;2016-05-24;2016-05-25;Online, Norway;60.472;8.468
+587;4434;Roxicodone;Heroin/DXM/Caffeine;2016-06-02;2016-06-02;Online, Phillipines;12.879;121.774
+588;4440;Blue Dolce & Gabbana;Caffeine/Methamphetamine;2016-06-02;2016-06-02;Baton Rouge, LA;30.458;-91.14
+589;4441;Green Dolce & Gabbana;Caffeine/Methamphetamine;2016-06-02;2016-06-02;Baton Rouge, LA;30.458;-91.14
+590;4442;Generic Methylphenidate;Diazepam;2016-06-02;2016-06-02;Tijuana, Online, Mexico;32.514;-117.038
+591;4452;Superman Pokeball;MDMA;2016-06-02;2016-06-02;Orange County, CA;33.717;-117.831
+592;4453;Warner Brothers;MDMA/4-CEC;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+593;4454;Ace of Spades;MDMA/MDA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+594;4455;Erdbeere;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+595;4456;Affe;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+596;4457;Erdbeere;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+597;4458;Rolex;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+598;4459;4459  FC Barcelona;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+599;4460;Burger King;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+600;4461;Domino-Stein ;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+601;4462;Defqon. 1;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+602;4463;Totenkopf;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+603;4464;Coca Cola;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+604;4465;Mafia;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+605;4466;Dom Perignon;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+606;4467;Maserati;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+607;4468;Minion;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+608;4469;Darth Vader;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+609;4470;Domino-stein;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+610;4471;Porsche;MDMA;2016-06-16;2016-06-17;Vienna, Austria;48.208;16.373
+611;4473;Red Bull;MDMA;2016-06-16;2016-06-17;Zurich, Switzerland;47.376;8.541
+612;4474;Minion;MDMA;2016-06-16;2016-06-17;Zurich, Switzerland;47.376;8.541
+613;4475;Nespresso;MDMA;2016-06-16;2016-06-17;Zurich, Switzerland;47.376;8.541
+614;4476;Porsche;MDMA;2016-06-16;2016-06-17;Zurich, Switzerland;47.376;8.541
+615;4477;Tulpe;MDMA;2016-06-16;2016-06-17;Zurich, Switzerland;47.376;8.541
+616;4481;Music On;MDMA;2016-06-21;2016-06-21;Zurich, Switzerland;47.376;8.541
+617;4486;Purple Lamborghini;MDMA;2016-06-21;2016-06-22;Portland, OR;45.523;-122.676
+618;4487;Peach Tesla;MDMA;2016-06-21;2016-06-22;Portland, OR;45.523;-122.676
+619;4488;Red Coca Cola;MDMA;2016-06-21;2016-06-22;Sacramento, CA, USA;38.581;-121.494
+620;4492;Omega;TFMPP/Imino-triphenyl-phosphorane;2016-06-21;2016-06-22;San Antonio, TX;29.424;-98.493
+621;4493;Alprazolam;Alprazolam;2016-06-21;2016-06-22;Austin, TX;30.267;-97.743
+622;4500;BMW;MDMA;2016-06-21;2016-06-22;Dallas, TX;32.776;-96.797
+623;4502;Xanax;Melatonin;2016-06-21;2016-06-22;Walnut Creek, CA;37.91;-122.065
+624;4503;Blue Paul Frank Monkey;Caffeine/MDA/MDA 2-aldoxime analog;2016-06-21;2016-06-22;Las Vegas, NV;36.169;-115.139
+625;4505;Bentley;MDMA;2016-06-30;2016-06-30;Bern, Switzerland;46.948;7.447
+626;4506;Tesla;MDMA;2016-06-30;2016-06-30;Zurich, Switzerland;47.376;8.541
+627;4507;MTV;MDMA;2016-06-30;2016-06-30;Zurich, Switzerland;47.376;8.541
+628;4508;Rakete  ;MDMA;2016-06-30;2016-06-30;Zurich, Switzerland;47.376;8.541
+629;4509;Green Tablet;Tadalafil;2016-06-30;2016-06-30;Montreal, Quebec, Canada;45.501;-73.567
+630;4513;Blue Paul Frank Monkey Bape;Caffeine/MDA/MDA 2-aldoxime analog;2016-06-30;2016-06-30;Miami, FL;25.761;-80.191
+631;4516;Amsterdam Mini;Palmitic Acid/Stearic Acid;2016-06-30;2016-06-30;Portland, OR;45.523;-122.676
+632;4522;Molly;Modafinil;2016-06-30;2016-06-30;San Francisco, CA;37.774;-122.419
+633;4523;Heisenberg;Caffeine/Methamphetamine;2016-06-30;2016-06-30;Tampa, FL;27.95;-82.457
+634;4526;Three Wise Monkeys;MDMA;2016-07-02;2016-07-02;Zurich, Switzerland;47.376;8.541
+635;4527;Apple;MDMA;2016-07-02;2016-07-02;Zurich, Switzerland;47.376;8.541
+636;4528;Dom Pérignon;MDMA;2016-07-02;2016-07-02;Zurich, Switzerland;47.376;8.541
+637;4529;Gold;MDMA;2016-07-02;2016-07-02;Zurich, Switzerland;47.376;8.541
+638;4530;MTV;MDMA;2016-07-02;2016-07-02;Zurich, Switzerland;47.376;8.541
+639;4531;Playboy;MDMA;2016-07-02;2016-07-02;Bern, Switzerland;46.948;7.447
+640;4532;Spongebob;MDMA;2016-07-02;2016-07-02;Zurich, Switzerland;47.376;8.541
+641;4533;Tulpe;MDMA;2016-07-02;2016-07-02;Zurich, Switzerland;47.376;8.541
+642;4535;Tulpe;MDMA;2016-07-09;2016-07-09;Zurich, Switzerland;47.376;8.541
+643;4540;6-APB;5-APDB;2016-07-09;2016-07-10;New York, NY;40.712;-74.006
+644;4541;Checco;Unidentified;2016-07-09;2016-07-10;Grasso, RI;41.58;-41.58
+645;4542;Hello Kitty;MDMA;2016-07-09;2016-07-10;New York, NY;40.712;-74.006
+646;4550;Alprazolam;Alprazolam;2016-07-22;2016-07-22;San Antonio, CA;29.424;-29.424
+647;4555;Eule;MDMA;2016-07-25;2016-07-26;Zurich, Switzerland;47.376;8.541
+648;4556;Music On;MDMA;2016-07-25;2016-07-26;Zurich, Switzerland;47.376;8.541
+649;4557;Tesla;MDMA;2016-07-25;2016-07-26;Zurich, Switzerland;47.376;8.541
+650;4558;Frau;MDMA/Caffeine;2016-07-25;2016-07-26;Zurich, Switzerland;47.376;8.541
+651;4559;iPhone/Apple;MDMA;2016-07-25;2016-07-26;Bern, Switzerland;46.948;7.447
+652;4560;Mandala;Caffeine/Caffeine/Caffeine;2016-07-25;2016-07-26;Bern, Switzerland;46.948;7.447
+653;4561;Mitsubishi;Caffeine/MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+654;4562;Shell;MDMA/Caffeine;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+655;4563;VW  ;Acetaminophen;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+656;4564;Kleeblatt;Caffeine;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+657;4565;Tomorrow-Land;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+658;4566;Erdbeere;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+659;4567;Red Bull;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+660;4568;Red Bull;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+661;4569;Dominostein;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+662;4570;Dominostein;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+663;4571;Dominostein;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+664;4572;Dominostein;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+665;4573;Chanel;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+666;4574;Affe;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+667;4576;Love (Handzeichen)/Peace;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+668;4577;Peace;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+669;4578;Silver;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+670;4579;Silver;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+671;4580;Walter White;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+672;4581;Burger King;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+673;4582;The North Face;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+674;4583;Chupa Chups;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+675;4584;Porsche;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+676;4585;Batman;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+677;4586;Darth Vader ;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+678;4587;Maserati;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+679;4588;Maserati;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+680;4589;Anonymous Mask;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+681;4590;Warner Brothers;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+682;4591;Herzförmig;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+683;4592;Love/Herz;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+684;4594;Rock n´Roll;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+685;4595;CP;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+686;4596;Batman ;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+687;4597;Playboyhase;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+688;4598;Tesla  ;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+689;4599;Drache;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+690;4600;Rockstar;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+691;4601;Totenkopf;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+692;4602;Rolex;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+693;4603;Patrone;MDMA;2016-07-25;2016-07-26;Vienna, Austria;48.208;16.373
+694;4606;Tesla;MDMA;2016-07-30;2016-08-01;Zurich, Switzerland;47.376;8.541
+695;4607;Tom Tom  ;MDMA;2016-07-30;2016-08-01;Bern, Switzerland;46.948;7.447
+696;4608;Lacoste;MDMA;2016-07-30;2016-08-01;Zurich, Switzerland;47.376;8.541
+697;4614;Anti-anxiety pill;Alprazolam;2016-08-02;2016-08-02;Los Angeles, CA;34.052;-118.243
+698;4615;No name;None Detected;2016-08-02;2016-08-02;Clarkston, MI;42.735;-83.419
+699;4619;Green Tesla;MDMA;2016-08-02;2016-08-02;Somerset, United Kingdom;51.105;-2.926
+700;4721;Tesla;MDMA;2016-08-30;2016-09-07;Zurich, Switzerland;47.376;8.541
+701;4722;Lebara;MDMA;2016-09-02;2016-09-07;Zurich, Switzerland;47.376;8.541
+702;4723;Kürbis;MDMA;2016-08-31;2016-09-07;Bern, Switzerland;46.948;7.447
+703;4724;MTV;MDMA;2016-09-02;2016-09-07;Zurich, Switzerland;47.376;8.541
+704;4727;Silver Bar;MDMA;2016-09-07;2016-09-07;Bay Area, Online, Unknown;37.827;-122.291
+705;4728;Red Supreme;MDMA;2016-09-07;2016-09-07;Bay Area, Online;37.827;-122.291
+706;4734;Alprazolam;Fentanyl;2016-09-07;2016-09-07;Long Beach, CA;33.77;-118.193
+707;4736;Codeine;Codeine;2016-09-07;2016-09-07;Belize City, Belize;17.189;-88.497
+708;4738;Orange Owl;MDMA;2016-09-07;2016-09-07;Phoenix, AZ;33.448;-112.074
+709;4742;Red Monkey;MDMA/Caffeine/Diphenhydramine;2016-09-07;2016-09-07;Tampa, FL;27.95;-82.457
+710;4747;Piaggio;MDMA;2016-09-06;2016-09-09;Zurich, Switzerland;47.376;8.541
+711;4748;Warner Brothers;MDMA;2016-09-06;2016-09-09;Zurich, Switzerland;47.376;8.541
+712;4749;Dexedrine;Caffeine/Amphetamines;2016-09-22;2016-09-22;Houston, TX;29.76;-95.369
+713;4750;Superman;MDMA;2016-09-13;2016-09-13;Zurich, Switzerland;47.376;8.541
+714;4751;Yellow Xanax Bar;Alprazolam;2016-09-22;2016-09-22;Houston, TX;29.76;-95.369
+715;4752;Green Xanax Bar;Alprazolam;2016-09-22;2016-09-22;Houston, TX;29.76;-95.369
+716;4759;Orange Tesla;MDMA;2016-09-22;2016-09-22;Riverdale, NJ;33.572;-84.413
+717;4762;Molly (Blue Pill);Caffeine/MDA 2-aldoxime analog/MDA/Phenacetin;2016-09-22;2016-09-22;St. Paul, MN;44.953;-93.09
+718;4767;Paul Frank Yellow;2C-B;2016-09-28;2016-09-28;Zurich, Switzerland;47.376;8.541
+719;4768;Go Pro;MDMA;2016-09-17;2016-09-28;Zurich, Switzerland;47.376;8.541
+720;4769;Bentley 8;MDMA;2016-09-17;2016-09-28;Zurich, Switzerland;47.376;8.541
+721;4770;Durex;MDMA;2016-09-17;2016-09-28;Zurich, Switzerland;47.376;8.541
+722;4771;Superman;MDMA;2016-09-17;2016-09-28;Zurich, Switzerland;47.376;8.541
+723;4772;Tesla;MDMA;2016-09-21;2016-09-28;Bern, Switzerland;46.948;7.447
+724;4773;Tesla;MDMA;2016-09-17;2016-09-28;Zurich, Switzerland;47.376;8.541
+725;4774;Apple;MDMA;2016-09-17;2016-09-28;Zurich, Switzerland;47.376;8.541
+726;4775;Apple;MDMA;2016-09-17;2016-09-28;Zurich, Switzerland;47.376;8.541
+727;4776;Joker;MDMA;2016-09-21;2016-09-28;Bern, Switzerland;46.948;7.447
+728;4779;Zolpidem Tablet;Zolpidem;2016-09-29;2016-09-29;Spokane, WA;47.658;-117.426
+729;4781;Oval Tablet;Elaidic acid/None Detected/Palmitic Acid/Stearic Acid;2016-09-29;2016-09-29;Dunwoody, GA;33.946;-84.334
+730;4786;NYC;Ketamine/Promethazine/Diazepam;2016-09-29;2016-09-29;FL;27.664;-81.515
+731;4791;Mickey Mouse;Caffeine/Methamphetamine;2016-09-29;2016-09-29;San Francisco, CA;37.774;-122.419
+732;4792;Anonymous;MDMA/4-Fluoromethylphenidate;2016-09-29;2016-09-29;New York, NY;40.712;-74.006
+733;4793;Mini Punisher;MDMA/4-Fluoromethylphenidate;2016-09-29;2016-09-29;New York, NY;40.712;-74.006
+734;4795;Tulpe;MDMA;2016-09-23;2016-10-01;Zurich, Switzerland;47.376;8.541
+735;4796;Loewenwappen;2C-B;2016-09-29;2016-10-01;Bern, Switzerland;46.948;7.447
+736;4798;Nespresso;MDMA;2016-09-29;2016-10-07;Zurich, Switzerland;47.376;8.541
+737;4799;Supermario;MDMA;2016-10-01;2016-10-07;Bern, Switzerland;46.948;7.447
+738;4800;Supermario 2;MDMA;2016-10-01;2016-10-07;Bern, Switzerland;46.948;7.447
+739;4801;MTV  ;MDMA;2016-10-01;2016-10-07;Bern, Switzerland;46.948;7.447
+740;4802;Lego;MDMA;2016-10-05;2016-10-07;Bern, Switzerland;46.948;7.447
+741;4803;Kuerbis;MDMA;2016-10-01;2016-10-07;Bern, Switzerland;46.948;7.447
+742;4805;Domino;MDMA;2016-10-01;2016-10-07;Bern, Switzerland;46.948;7.447
+743;4806;Tomorrowland;MDMA;2016-10-04;2016-10-07;Zurich, Switzerland;47.376;8.541
+744;4807;Defqon;MDMA;2016-10-01;2016-10-07;Bern, Switzerland;46.948;7.447
+745;4808;Smiley;2C-B;2016-10-01;2016-10-07;Bern, Switzerland;46.948;7.447
+746;4810;Thizz;Caffeine/Amphetamines/Alprazolam;2016-10-11;2016-10-11;Dallas, TX;32.776;-96.797
+747;4812;UPS;MDMA;2016-10-11;2016-10-11;Seattle, WA;47.606;-122.332
+748;4813;Tomorrowland;MDMA;2016-10-11;2016-10-11;Seattle, WA;47.606;-122.332
+749;4815;Minion;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+750;4817;Minion;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+751;4818;Kleeblatt;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+752;4819;2K;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+753;4821;Eule 1;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+754;4822;Harley Davidson;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+755;4823;Popcorn;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+756;4824;Defqon;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+757;4825;Heineken;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+758;4826;Peace Sign;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+759;4827;K2;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+760;4828;Tomorrowland;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+761;4829;Dom Perignon;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+762;4830;Skull with Star;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+763;4831;Vodafon;MDMA;2016-09-15;2016-10-12;Vienna, Austria;48.208;16.373
+764;4833;Herz;Metandienone;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+765;4834;Rolls Royce;MDMA/Caffeine;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+766;4835;Rolex 1;2C-B;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+767;4837;Kürbis;MDMA;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+768;4838;XTC;MDMA;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+769;4839;Eule 2;MDMA;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+770;4840;Domino ;MDMA;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+771;4841;Love/Herz;MDMA;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+772;4842;Flügel;MDMA;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+773;4843;C;MDMA;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+774;4845;KitKat;MDMA;2016-10-12;2016-10-12;Vienna, Austria;48.208;16.373
+775;4848;LV/Louis Vuitton;MDMA;2016-10-14;2016-10-14;Zurich, Switzerland;47.376;8.541
+776;4851;Cry Later;MDMA;2016-10-14;2016-10-14;Bern, Switzerland;46.948;7.447
+777;4852;Laugh Now;MDMA;2016-10-12;2016-10-14;Bern, Switzerland;46.948;7.447
+778;4855;UPS;MDMA;2016-10-19;2016-10-20;Los Angeles, CA;34.052;-118.243
+779;4856;No name;Palmitic Acid/Stearic Acid;2016-10-20;2016-10-20;Pacific Grove, CA;36.617;-121.916
+780;4857;White Tablet;Tramadol;2016-10-20;2016-10-20;Online, India;20.593;78.962
+781;4862;Red Ferrari ;PMMA;2016-10-19;2016-10-20;Sinsheim, Baden-Wuerttemberg, Germany;49.248;8.888
+782;4863;Green Paul Frank Monkey;Caffeine/Synthesis Byproducts/MDMA Methylene homolog/Ketamine/Lidocaine;2016-10-11;2016-10-20;Altamonte Springs, FL;28.661;-81.365
+783;4864;Alprazolam;Alprazolam;2016-10-11;2016-10-20;Long Beach, CA;33.77;-118.193
+784;4867;No name;Acetaminophen/Tramadol;2016-10-20;2016-10-20;Torrance, CA;33.835;-118.34
+785;4868;FC Barcelona;MDMA;2016-10-14;2016-10-21;Basel, Switzerland;47.559;7.588
+786;4872;Music On;MDMA;2016-10-19;2016-10-21;Basel, Switzerland;47.559;7.588
+787;4874;Tapentadol;Tapentadol;2016-10-28;2016-10-28;Online, India;20.593;78.962
+788;4876;Tomorrowland;MDMA;2016-10-28;2016-10-28;Online, Unknown;20.593;78.962
+789;4879;Tomorrowland (SB);MDMA;2016-10-28;2016-10-28;Online, Unknown;20.593;78.962
+790;4882;EA7;MDMA;2016-10-26;2016-10-29;Basel, Switzerland;47.559;7.588
+791;4884;Blue Oxycodone;Oxycodone;2016-11-03;2016-11-04;Riverside, CA;33.953;-117.396
+792;4885;Red Tesla;MDMA;2016-11-03;2016-11-04;Tukwila, WA;47.474;-122.261
+793;4886;Green Super Mario;Caffeine/MDMA;2016-11-03;2016-11-04;Helsinki, Finland;60.169;24.938
+794;4887;Xanax;Alprazolam;2016-11-03;2016-11-04;Phoenix, AZ;33.448;-112.074
+795;4889;No name; 4-fluoro-alpha-PVP;2016-11-03;2016-11-04;Online, Europe;54.526;15.255
+796;4891;Yellow Tablet;Acetaminophen/Tramadol;2016-11-03;2016-11-04;Online, India;20.593;78.962
+797;4894;Warner Brothers;MDMA;2016-10-28;2016-11-04;Zurich, Switzerland;47.376;8.541
+798;4895;Smiley;MDMA;2016-11-01;2016-11-04;Zurich, Switzerland;47.376;8.541
+799;4896;Eule;MDMA;2016-11-02;2016-11-04;Bern, Switzerland;46.948;7.447
+800;4897;Tulpe;MDMA;2016-10-29;2016-11-04;Bern, Switzerland;46.948;7.447
+801;4898;Heart;MDMA;2016-10-29;2016-11-04;Bern, Switzerland;46.948;7.447
+802;4899;Love;MDMA;2016-10-29;2016-11-04;Bern, Switzerland;46.948;7.447
+803;4900;Pokemon  ;MDMA;2016-11-08;2016-11-15;Zurich, Switzerland;47.376;8.541
+804;4901;Super Mario;MDMA;2016-11-09;2016-11-15;Bern, Switzerland;46.948;7.447
+805;4902;Lamborghini;MDMA;2016-11-08;2016-11-15;Zurich, Switzerland;47.376;8.541
+806;4903;Tom Tom;MDMA;2016-11-08;2016-11-15;Zurich, Switzerland;47.376;8.541
+807;4904;Tesla;MDMA;2016-11-08;2016-11-15;Zurich, Switzerland;47.376;8.541
+808;4913;Tesla;MDMA;2016-11-15;2016-11-16;Online, Unknown;47.376;8.541
+809;4918;Rolls Royce  ;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+810;4919;Trojka;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+811;4920;Underground;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+812;4921;Underground;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+813;4922;Dom Perignon;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+814;4923;Minion;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+815;4924;Flügel;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+816;4925;Keeblatt;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+817;4926;Flasche SPA;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+818;4927;Philipp Plein;MDMA;2016-11-17;2016-11-17;Vienna, Austria;48.208;16.373
+819;4932;Twitter;MDMA;2016-11-12;2016-11-18;Zurich, Switzerland;47.376;8.541
+820;4933;Super Mario;MDMA;2016-11-15;2016-11-18;Zurich, Switzerland;47.376;8.541
+821;4934;Stern;MDMA;2016-11-12;2016-11-18;Zurich, Switzerland;47.376;8.541
+822;4935;Stern;MDMA;2016-11-12;2016-11-18;Zurich, Switzerland;47.376;8.541
+823;4936;Shell;MDMA;2016-11-12;2016-11-18;Zurich, Switzerland;47.376;8.541
+824;4937;Pikachu;MDMA;2016-11-12;2016-11-18;Zurich, Switzerland;47.376;8.541
+825;4938;Löwe/lion;MDMA;2016-11-12;2016-11-18;Zurich, Switzerland;47.376;8.541
+826;4939;Mastercard;MDMA;2016-11-05;2016-11-18;Zurich, Switzerland;47.376;8.541
+827;4940;Dove  ;MDMA;2016-11-12;2016-11-18;Zurich, Switzerland;47.376;8.541
+828;4941;Cry Later;MDMA;2016-11-12;2016-11-18;Zurich, Switzerland;47.376;8.541
+829;4942;Cry Later ;MDMA;2016-11-12;2016-11-18;Zurich, Switzerland;47.376;8.541
+830;4943;Nespresso;MDMA;2016-11-22;2016-11-25;Zurich, Switzerland;47.376;8.541
+831;4944;White Tablet;Alprazolam;2016-11-23;2016-11-28;Online;34.42;-119.698
+832;4950;Norco;Acetaminophen/Hydrocodone;2016-11-23;2016-11-28;Online;34.42;-119.698
+833;4951;Blue Pikachu;MDMA/Methylsulfonylmethane;2016-11-23;2016-11-28;Santa Barbara, CA;34.42;-119.698
+834;4952;Yellow Legoman;MDMA;2016-11-23;2016-11-28;Santa Barbara, CA;34.42;-119.698
+835;4953;Yellow Atari ;MDMA/Caffeine/MDA;2016-11-23;2016-11-28;Santa Barbara, CA;34.42;-119.698
+836;4954;Vans;MDMA;2016-11-23;2016-11-28;Online;34.42;-119.698
+837;4956;Tulpe;MDMA;2016-12-01;2016-12-02;Zurich, Switzerland;47.376;8.541
+838;4957;Double Trouble;MDMA;2016-11-30;2016-12-02;Bern, Switzerland;46.948;7.447
+839;4958;Heineken;MDMA;2016-11-30;2016-12-02;Bern, Switzerland;46.948;7.447
+840;4960;Piaggio;MDMA;2016-12-07;2016-12-09;Bern, Switzerland;46.948;7.447
+841;4961;Vendetta;MDMA;2016-12-06;2016-12-09;Zurich, Switzerland;47.376;8.541
+842;4962;Gold;MDMA/Caffeine;2016-12-06;2016-12-09;Zurich, Switzerland;47.376;8.541
+843;4963;Zolpidem;Alprazolam;2016-12-12;2016-12-13;Stockholm, Sweden;59.329;18.068
+844;4964;Oreo;MDMA/MDA;2016-12-12;2016-12-13;Dallas, TX;32.776;-96.797
+845;4972;Perc10;Acetaminophen;2016-12-12;2016-12-13;Cincinnati, OH;39.103;-84.512
+846;4975;Pink Love Heart;MDMA;2016-12-14;2016-12-14;London, United Kingdom;51.507;-1
+847;4981;White Tablet;Caffeine;2016-12-14;2016-12-14;Bend, OR;44.058;-121.315
+848;4982;Gold Mercedes;4-Fluoroisobutyrylfentanyl/N-Ethylpentylone;2016-12-14;2016-12-14;Online;44.058;-121.315
+849;4985;Red A|X;MDA;2016-12-14;2016-12-14;Mexico City, Mexico;19.432;-99.133
+850;4988;Maserati;MDMA/Ethylone/MDA/Phenacetin;2016-12-14;2016-12-14;Pasadena, CA;34.147;-118.144
+851;4989;Samsung;MDMA;2016-12-14;2016-12-14;Dallas, TX;32.776;-96.797
+852;4990;Oreo;MDMA;2016-12-14;2016-12-14;Unknown, Unknown;32.776;-96.797
+853;4991;Coca Cola ;MDMA;2016-12-13;2016-12-16;Zurich, Switzerland;47.376;8.541
+854;4992;Warner Brothers ;MDMA;2016-12-13;2016-12-16;Zurich, Switzerland;47.376;8.541
+855;4993;Bugatti;Methylmethcathinone;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+856;4994;Herz;Unidentified;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+857;4995;Rolex ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+858;4996;Pablo Escobar ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+859;4997;Tripadvisor ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+860;4998;Super Mario ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+861;4999;Heineken ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+862;5000;Walter White;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+863;5001;Flasche/SPA ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+864;5002;Warner Brothers;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+865;5003;Warner Brothers ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+866;5004;Flügel;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+867;5005;Flügel ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+868;5006;Minion ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+869;5007;Atari ;MDMA;2016-12-01;2016-12-22;Vienna, Austria;48.208;16.373
+870;5008;Flying V;Oxycodone;2016-12-22;2016-12-24;Grenada, MS;12.116;-61.679
+871;5014;Oxycodone;Oxycodone;2016-12-22;2016-12-24;Los Angeles, CA;34.052;-118.243
+872;5015;Blues;Oxycodone;2016-12-22;2016-12-24;Los Angeles, CA;34.052;-118.243
+873;5017;Zofran ;Ondansetron;2016-12-23;2016-12-24;Online, India;20.593;78.962
+874;5020;Adderall;Tramadol;2016-12-22;2016-12-24;Online, India;20.593;78.962
+875;5023;Coca Cola ;MDMA;2016-12-20;2016-12-27;Zurich, Switzerland;47.376;8.541
+876;5024;Chupa Chups ;MDMA;2016-12-16;2016-12-27;Zurich, Switzerland;47.376;8.541
+877;5025;FC Barcelona ;MDMA;2016-12-16;2016-12-27;Zurich, Switzerland;47.376;8.541
+878;5031;Pink Apple ;MDMA;2016-12-16;2016-12-27;Sao Paulo, Brazil;-23.55;-46.633
+879;5033;Watson 853 ;Fentanyl;2016-12-28;2016-12-28;Online;36.974;-122.03
+880;5035;MDA ;MDA;2017-01-13;2017-01-16;Santa Cruz, CA;36.974;-122.03
+881;5036;Perc30 ;Fentanyl;2017-01-13;2017-01-16;KY;37.839;-84.27
+882;5038;Oxy;Oxycodone;2017-01-13;2017-01-16;Los Angeles, CA;34.052;-118.243
+883;5039;Blues;Oxycodone;2017-01-13;2017-01-16;Los Angeles, CA;34.052;-118.243
+884;5041;Xanax Bar ;Lorazepam/Acetaminophen;2017-01-13;2017-01-16;Online, India;20.593;78.962
+885;5044;Starbucks ;MDMA;2017-01-13;2017-01-16;Online;47.376;8.541
+886;5045;Alprazolam;Alprazolam;2017-01-13;2017-01-16;Online;47.376;8.541
+887;5047;Green Instagram ;MDMA;2017-01-13;2017-01-16;Online;47.376;8.541
+888;5048;A.C.A.B ;MDMA;2017-01-11;2017-01-15;Zurich, Switzerland;47.376;8.541
+889;5049;The North Face ;MDMA;2017-01-11;2017-01-15;Zurich, Switzerland;47.376;8.541
+890;5052;Finn;MDA;2017-01-18;2017-01-19;New York, NY;40.712;-74.006
+891;5054;TERPS;MDMA/Methylsulfonylmethane;2017-01-18;2017-01-19;Bay Area, CA;37.827;-122.291
+892;5056;Tesla;Unidentified;2017-01-18;2017-01-19;Miami, FL;25.761;-80.191
+893;5057;Blue Diamond ;Sildenafil;2017-01-18;2017-01-19;Online, Colombia;4.57;-74.297
+894;5058;Red Tablet ;Ibuprofen;2017-01-18;2017-01-19;Toronto, ON, Canada;43.653;-79.383
+895;5061;Rock 'n' Roll ;MDMA;2017-01-20;2017-01-20;Zurich, Switzerland;47.376;8.541
+896;5065;Porsche ;Caffeine/Methamphetamine;2017-01-24;2017-01-25;Baton Rouge, LA;30.458;-91.14
+897;5073;Red Bull ;MDMA;2017-01-24;2017-01-25;Zurich, Switzerland;47.376;8.541
+898;5074;Red Bull ;MDMA;2017-01-25;2017-01-30;Bern, Switzerland;46.948;7.447
+899;5075;Coca Cola ;MDMA;2017-01-24;2017-01-30;Zurich, Switzerland;47.376;8.541
+900;5078;Rolls Royce ;MDMA;2017-01-31;2017-02-03;Zurich, Switzerland;47.376;8.541
+901;5081;Pink Anonymous ;MDMA;2017-02-05;2017-02-05;Online;46.948;7.447
+902;5082;Harley Davidson ;MDMA;2017-02-05;2017-02-05;Boston, MA;42.36;-71.058
+903;5086;Tesla ;MDMA;2017-02-05;2017-02-05;San Francisco, CA;37.774;-122.419
+904;5092;Ananas;MDMA;2017-02-10;2017-02-10;Zurich, Switzerland;47.376;8.541
+905;5095;Goldbarren;Caffeine/Acetaminophen/MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+906;5096;Blume/Schildkröte ;4-Chloromethamphetamine;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+907;5097;9 mm ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+908;5098;Minion ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+909;5099;Popcorn ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+910;5100;Red Bull ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+911;5101;Rolex ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+912;5102;Affe;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+913;5103;Affe;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+914;5104;Guy Fawkes ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+915;5105;Nintendo ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+916;5106;Levi's ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+917;5107;IKEA;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+918;5108;Mitsubishi ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+919;5109;Pablo Escobar ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+920;5110;Schildkröte ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+921;5111;The North Face ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+922;5112;kpn;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+923;5113;Diamant ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+924;5114;Vögel;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+925;5115;Red Bull ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+926;5116;SPA ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+927;5117;Doppelte Kirsche ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+928;5118;Pacman;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+929;5119;Marienkäfer ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+930;5120;Instagram;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+931;5121;No name;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+932;5122;Maske;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+933;5123;Purple;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+934;5124;Red Army Skull ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+935;5125;Stier ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+936;5126;Rolex;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+937;5127;Stierkopf;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+938;5128;Tomorrowland ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+939;5129;Emporio Armani 7 ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+940;5130;Dominostein ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+941;5131;Supreme;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+942;5132;No name;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+943;5133;Albert Heijn ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+944;5134;Superman;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+945;5135;Super Mario ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+946;5136;Defqon ;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+947;5137;Flügel;MDMA;2017-02-07;2017-02-14;Vienna, Austria;48.208;16.373
+948;5152;IKEA ;MDMA;2017-02-13;2017-02-14;Online;40.712;-74.006
+949;5154;G Lady ;MDA;2017-02-13;2017-02-14;New York, NY;40.712;-74.006
+950;5155;Heisenberg /Walter White;Caffeine/Methamphetamine;2017-02-13;2017-02-14;New York, NY;40.712;-74.006
+951;5156;SKI ;2C-B;2017-02-13;2017-02-14;New York, NY;40.712;-74.006
+952;5157;Burger King ;MDMA;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+953;5158;Rolex;MDMA;2017-02-14;2017-02-17;Zurich, Switzerland;47.376;8.541
+954;5159;No name;MDMA;2017-02-15;2017-02-17;Bern, Switzerland;46.948;7.447
+955;5160;Hanfblatt;MDMA;2017-02-10;2017-02-17;Zurich, Switzerland;47.376;8.541
+956;5161;Hanfblatt;MDMA;2017-02-17;2017-02-17;Zurich, Switzerland;47.376;8.541
+957;5162;Superman;MDMA/Caffeine;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+958;5163;Herz;MDMA/Caffeine;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+959;5164;Geist/Ghost;MDMA;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+960;5165;Erdbeere;MDMA;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+961;5166;Euro;MDMA;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+962;5167;Bitcoin;1,1-diphenylprolinol;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+963;5168;Kein Logo ;MDMA;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+964;5169;Toyota ;MDMA;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+965;5170;(Batterie)/Battery;MDMA;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+966;5171;Heineken ;MDMA;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+967;5172;Goldbarren;MDMA;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+968;5173;AP;MDMA/Caffeine;2014-09-01;2017-02-17;Vienna, Austria;48.208;16.373
+969;5174;Hanfblatt;MDMA;2017-02-24;2017-02-24;Zurich, Switzerland;47.376;8.541
+970;5175;Pac-Man Geist ;MDMA;2017-02-24;2017-02-24;Zurich, Switzerland;47.376;8.541
+971;5176;Anonymous;MDMA;2017-02-24;2017-02-24;Zurich, Switzerland;47.376;8.541
+972;5177;Philipp Plein ;MDMA;2017-02-24;2017-02-24;Zurich, Switzerland;47.376;8.541
+973;5178;Vodaphone ;MDMA;2017-02-24;2017-02-24;Zurich, Switzerland;47.376;8.541
+974;5179;Philipp Plein ;MDMA;2017-02-02;2017-03-01;Vienna, Austria;48.208;16.373
+975;5180;SPA;MDMA;2017-02-02;2017-03-01;Vienna, Austria;48.208;16.373
+976;5181;Trauriges Gesicht ;MDMA;2017-02-02;2017-03-01;Vienna, Austria;48.208;16.373
+977;5182;Levi's ;MDMA;2017-02-02;2017-03-01;Vienna, Austria;48.208;16.373
+978;5183;IKEA;MDMA;2017-02-02;2017-03-01;Vienna, Austria;48.208;16.373
+979;5184;Minion ;MDMA;2017-02-02;2017-03-01;Vienna, Austria;48.208;16.373
+980;5185;Rolls Royce ;MDMA;2017-02-02;2017-03-01;Vienna, Austria;48.208;16.373
+981;5186;Doppelte Kirsche ;MDMA;2017-02-02;2017-03-01;Vienna, Austria;48.208;16.373
+982;5188;Roche 10 ;Diazepam;2017-03-02;2017-03-03;Online;47.751;-120.74
+983;5190;Found Pill /tablet;Melatonin;2017-03-02;2017-03-03;Washington, DC;47.751;-120.74
+984;5195;Roxy ;Fentanyl;2017-03-02;2017-03-03;Online;47.751;-120.74
+985;5198;Starbucks ;MDMA/Caffeine;2017-03-02;2017-03-03;Dallas, TX;32.776;-96.797
+986;5200;Oxycodone;Furanylfentanyl;2017-03-02;2017-03-03;Online,China;39.913;116.363
+987;5202;Oxandrolone ;Oxandrolone;2017-03-02;2017-03-03;Kiev, Ukraine;50.45;30.523
+988;5204;Superman;Methylsulfonylmethane;2017-03-02;2017-03-03;Atlanta, GA;33.749;-84.388
+989;5212;Bentley ;MDMA;2017-03-03;2017-03-06;Zurich, Switzerland;47.376;8.541
+990;5213;Rolex;MDMA;2017-03-03;2017-03-06;Bern, Switzerland;46.948;7.447
+991;5214;Super Mario ;MDMA;2017-03-03;2017-03-06;Bern, Switzerland;46.948;7.447
+992;5217;cor 239 ;Methylphenidate;2017-03-09;2017-03-10;McMurray, PA;56.726;-111.38
+993;5221;White Triangle ;MDMA;2017-03-09;2017-03-10;Chicago, IL;41.878;-87.629
+994;5224;Lego ;MDMA;2017-03-09;2017-03-10;Evanston, IL;42.045;-87.687
+995;5225;Mastercard ;Caffeine/Methamphetamine;2017-03-09;2017-03-10;Atlanta, GA;33.749;-84.388
+996;5231;Ecstasy;Tramadol;2017-03-15;2017-03-15;Atlanta, GA;33.749;-84.388
+997;5233;Eule ;3-Methylmethcathinone;2017-03-17;2017-03-17;Zurich, Switzerland;47.376;8.541
+998;5235;G6;MDMA;2017-03-21;2017-03-21;San Jose, CA;37.338;-121.886
