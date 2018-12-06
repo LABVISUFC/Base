@@ -1,4 +1,4 @@
-index;Name;sample_name;Substance;tested_date;published_date;location;Latitude;Longitude
+index;name;sample_name;substance;tested_date;published_date;location;latitude;longitude
 0;3008;Yellow Leux;TFMPP;2013-12-13;2013-12-13;San Diego, CA;32.715;-117.257
 1;3009;Blue Armani;MDA;2013-12-13;2013-12-13;Albuquerque, NM;35.113;-106.621
 2;3010;Blue Circles;MDMA;2013-12-13;2013-12-13;Melrose Park, IL;41.9;-87.856
